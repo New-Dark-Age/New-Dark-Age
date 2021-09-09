@@ -1,0 +1,359 @@
+﻿capital = 185
+
+set_country_flag = weapon_purchasing_CAP_permit
+
+
+#TECH CULTURE#
+set_country_flag = tech_gfx_eastern
+set_country_flag = tech_alignment_eastern
+
+#TECH/OOBS
+oob = "PDG_1949"
+
+
+set_research_slots = 3
+
+add_ideas = {
+	service_by_requirement
+	cold_war_civil_war_ideological_idea
+	paramilitarism_focus
+	ideological_fanaticism_focus
+	banditry
+	international_credibility_3
+	GRE_disorganized_health
+	GRE_war_devastation_harsh
+	
+
+}
+#1
+
+add_dynamic_modifier = {
+	modifier = consumer_goods_spending
+}
+set_variable = { CG_Effiency = -0.2 }
+set_variable = { CG_Research = -0.1 }
+set_variable = { CG_CG = -0.08 }
+
+
+#3
+
+add_dynamic_modifier = {
+	modifier = soviet_repression
+}
+
+set_variable = { gulag_factor_neg = -0.02 }
+set_variable = { gulag_factor_five = 0.10 }
+
+
+#4 
+
+add_dynamic_modifier = {
+	modifier = clergy_tolerance
+}
+
+set_variable = {	clergy_persecution_negative = -0.08}
+set_variable = { clergy_persecution_factor = 0.1 }
+
+
+
+add_dynamic_modifier = {
+	modifier = KKE_party_strength
+}
+
+set_variable = { cpsu_strength_stability = -0.05 	}
+set_variable = { cpsu_strength_pp = 0.15 }
+
+
+
+1946.1.1 = {
+	if = {
+		limit = { country_exists = PDG }
+		declare_war_on = {
+			target = GRE
+			type = civil_war
+		}
+		set_cosmetic_tag = GPLA
+		add_named_threat = { 
+			threat = 5
+			name = "Greek_Civil_War_TT"
+		}
+	}
+}
+
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns"}
+	}
+	set_technology = {
+		ww_screens_proletariat = 1
+		frigate_0 = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns"}
+	set_technology = {
+		subkiller_0 = 1
+		maritime_sonar_0 = 1
+		detection_ww = 1
+		maritime_ew_ss_0 = 1
+		ww_armaments = 1
+		ship_armament_light_0 = 1
+		ship_armament_medium_0 = 1
+		
+		ww_capitals = 1
+		
+		ww_submarines = 1
+		torpedo_ww = 1
+		sub_hull_large_single_0 = 1
+		torpedo_small_0 = 1
+		ww_screens = 1
+		screen_hull_medium_0 = 1
+		screen_hull_heavy_0 = 1
+	}
+}
+
+set_technology = {
+
+##### INFRA #####
+	ww_infra = 1
+
+
+##Infantry##
+	
+	infantry_equip_1 = 1 
+	team_weapons_1 = 1
+	ammo_explosives_1 = 1
+	squad_weapons_1 = 1
+	hmg_1 = 1
+	
+	special_operations = 1
+	mountain_warfare_1 = 1
+	amphibious_warfare_1 = 1
+	airborne_operations_1 = 1
+	
+##Support##
+	
+	tech_support = 1
+	
+	combat_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_military_police = 1
+	
+	combat_service_support = 1
+	tech_field_hospital = 1
+	
+##Armor##
+
+	iw_armored_vehicles = 1
+	light_tanks_1 = 1
+	main_battle_tanks = 1
+	heavy_tanks_1 = 1
+	
+	mechanized_infantry = 1
+	motorised_infantry = 1
+	
+	sp_rocket1 = 1
+	
+##Artillery##
+	
+	autocannon_1 = 1
+	
+	artillery_1 = 1
+	light_artillery_1 = 1
+	sp_artillery_1 = 1
+	heavy_artillery_1 = 1
+	light_sp_artillery_1 = 1
+	
+	direct_fire_gun_1 = 1
+	
+##Land Doc##
+	
+##Naval##
+	
+##Naval Doc##
+	
+##Light Air##
+
+	early_fighter = 1
+	
+##Air##
+
+	early_bomber = 1
+	
+##Air Doc##
+	
+##Helicopters##
+	
+##Engineering##
+
+	radio = 1 
+	
+##Industry##
+	
+##Rocketry##
+
+	rocket_engines = 1
+	
+##Space##
+	
+##WMD##
+	
+}
+
+
+set_convoys = 20
+set_war_support = 0.9
+
+
+
+	set_popularities = { 
+		communism = 40
+		trotskyism = 30
+		Social_Democratic = 10
+		socialist = 20
+	}
+
+	set_politics = {
+	ruling_party = communism
+	last_election = "1947.6.9"
+	election_frequency = 12
+	elections_allowed = no
+}
+set_stability = 0.3
+
+create_country_leader = {
+	name = "Dimitrios Partsalidis"
+	picture = "Portrait_Greece_Dimitrios_Partsalidis.dds"
+	ideology = stalinism
+}
+
+create_country_leader = {
+	name = "Markos Vafeiadis"
+	picture = "Markos_Vafeiadis.dds"
+	ideology = trotskyism_ideology
+}
+
+create_country_leader = {
+	name = "Nikos Zachariadis"
+	picture = "Nikos_Zachariadis.dds"
+	ideology = anti_revisionism
+}
+
+create_country_leader = {
+	name = "Charilaos Florakis"
+	picture = "Charilaos_Florakis.dds"
+	ideology = socialism
+}
+
+# 1949.12.31 = {
+# 	white_peace = GRE	# commented to avoid error in 1960 start ("white_peace: not valid before game start, such as in history scripts")
+# }
+
+
+### Ship Variants ###
+
+create_equipment_variant = {
+	name = "Hydra Class"
+	type = destroyer_1
+	upgrades = {
+
+	}
+}
+
+init_influence = yes
+set_variable = { var = domestic_influence_amount value = 500 }
+add_to_array = { influence_array = YUG.id }
+add_to_array = { influence_array_val = 500 }
+add_to_array = { influence_array = SOV.id }
+add_to_array = { influence_array_val = 2500 }
+
+create_corps_commander = {
+	name = "Andreas Tsipas"
+	picture = "Andreas_Tsipas.dds"
+	id = 45456
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+create_corps_commander = {
+	name = "Georgios Giannoulis"
+	picture = "Georgios_Giannoulis.dds"
+	id = 45457
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+create_corps_commander = {
+	name = "Nikos Beloyannis"
+	picture = "Nikos_Beloyannis.dds"
+	id = 45458
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+
+
+
+create_corps_commander = {
+	name = "Nikos Kanakaridis"
+	picture = "Nikos_Kanakaridis.dds"
+	id = 45459
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+
+create_corps_commander = {
+	name = "Nonta Sakellariou"
+	picture = "Nonta_Sakellariou.dds"
+	id = 45451
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+
+create_corps_commander = {
+	name = "Petros Antaios"
+	picture = "Petros_Antaios.dds"
+	id = 45452
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+
+create_corps_commander = {
+	name = "Spyro Kotsaki"
+	picture = "Spyro_Kotsaki.dds"
+	id = 45453
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+
+create_corps_commander = {
+	name = "Thanasis Chatzis"
+	picture = "Thanasis_Chatzis.dds"
+	id = 45454
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+
+create_corps_commander = {
+	name = "Vasilis Bartziotas"
+	picture = "Vasilis_Bartziotas.dds"
+	id = 45455
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+}
+create_field_marshal = {
+	name = "Markos Vafeiadis"
+	id = 123456
+	picture = "Markos_Vafeiadis.dds"
+	traits = { defensive_doctrine offensive_doctrine  }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 4
+}

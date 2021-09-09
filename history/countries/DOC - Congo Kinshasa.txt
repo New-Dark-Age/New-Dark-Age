@@ -1,0 +1,599 @@
+﻿capital = 295
+
+oob = "DOC_1949"
+
+if = {
+	limit = { has_dlc = "Man the Guns"}
+	set_technology = {
+		detection_ww = 1
+		ww_armaments = 1
+
+		ww_screens = 1
+	}
+}
+
+set_technology = {
+
+##### INFRA #####
+	ww_infra = 1
+
+
+##Infantry##
+	
+	infantry_equip_1 = 1 
+	team_weapons_1 = 1
+	squad_weapons_1 = 1
+	hmg_1 = 1
+	
+##Support##
+	
+	tech_support = 1
+	
+	combat_support = 1
+	tech_military_police = 1
+	
+##Armor##
+
+	iw_armored_vehicles = 1
+	
+##Artillery##
+	
+	artillery_1 = 1
+	light_artillery_1 = 1
+	
+##Land Doc##
+	
+##Naval##
+	
+##Naval Doc##
+	
+##Light Air##
+
+	early_fighter = 1
+	
+##Air##
+
+	early_bomber = 1
+	
+##Air Doc##
+	
+##Helicopters##
+	
+##Engineering##
+	
+##Industry##
+	
+##Rocketry##
+	
+##Space##
+	
+##WMD##
+
+}
+
+
+add_ideas = {
+	idea_force_publique
+	saf_apartheid_1
+	closed_economy
+}
+
+1955.1.1 = {
+	remove_ideas = { 
+		saf_apartheid_1
+	}
+}
+
+set_convoys = 20
+
+set_cosmetic_tag = DOC_BEL
+
+init_influence = yes
+set_variable = { var = domestic_influence_amount value = 500 }
+add_to_array = { influence_array = BEL.id }
+add_to_array = { influence_array_val = 2000 }
+
+
+
+	set_popularities = { 
+		democratic = 0
+		communism = 0
+		fascism = 0
+		nationalist = 0
+		monarchism = 0
+		neutrality = 100
+		islamism = 0
+		radical_shiaism = 0
+		Social_Democratic = 0
+		Social_Liberalism = 0
+		Salafism = 0
+		Liberal_Conservatism = 0
+		conservative = 0
+		Christian_Democratic = 0
+		socialist = 0
+		centrist = 0
+		liberal = 0
+		trotskyism = 0
+		maoism = 0
+		
+	}
+
+	set_politics = {
+	ruling_party = neutrality
+	last_election = "1945.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Pierre Ryckmans"
+	picture = "Pierre_Ryckmans.dds"
+	ideology = colonial_regime
+}
+
+create_country_leader = {
+	name = "Patrice Lumumba"
+	picture = "Patrice_Lumumba.dds"
+	desc = POLITICS_LAMUMBA_DESC
+	ideology = african_socialism
+	traits = {
+		boldy_resistant_to_belgian_imperialism
+		humanist_egalitarian
+		vehemently_against_tribalism
+		isolated_political_maverick
+	}
+}
+
+create_country_leader = {
+	name = "Joseph Kasa-Vubu"
+	picture = "Joseph_Kasa_Vubu.dds"
+	ideology = liberal_conservatives
+}
+
+
+create_country_leader = {
+	name = "Moïse Tshombe"
+	picture = "Moise_Tshombe.dds"
+	desc = POLITICS_TSHOMBE_DESC
+	ideology = nationalist_ideology
+	traits = {
+		successful_african_businessman
+		belgian_sympathies
+		katangan_populist
+		mercenary_enthusiast
+	}
+}
+
+create_country_leader = {
+	name = "Antoine Gizenga"
+	picture = "Antoine_Gizenga.dds"
+	ideology = social_democrat
+}
+
+create_country_leader = {
+	name = "Joseph Iléo"
+	picture = "Joseph_Ileo.dds"
+	ideology = christian_democracy
+}
+create_country_leader = {
+	name = "Pierre Mulele"
+	picture = "Pierre_Mulele.dds"
+	ideology = maoist
+}
+
+create_corps_commander = {
+	name = "Leopold Massiala"
+	picture = "Leopold_Massiala.dds"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+	traits = {
+		career_officer
+	}
+	id = 623891
+}
+create_corps_commander = {
+	name = "Leonard Mulamba"
+	picture = "Leonard_Mulamba.dds"
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+	id = 623892
+}
+create_corps_commander = {
+	name = "Joseph-Désiré Mobutu"
+	picture = "Joseph_Desire_Mobutu.dds"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+	traits = {
+		career_officer
+		trait_reckless
+	}
+	id = 623893
+}
+create_field_marshal = {
+	name = "Louis de Gonzague Bobozo"
+	picture = "Louis_Bobozo.dds"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+	traits = {
+		politically_connected
+		career_officer
+	}
+	id = 623894
+}
+create_field_marshal = {
+	name = "Emile Janssens"
+	picture = "Emile_Janssens.dds"
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 1
+	id = 581
+	traits = {
+		politically_connected
+		harsh_leader
+	}
+}
+
+1946.12.31 = {
+	create_country_leader = {
+		name = "Eugène Jungers"
+		picture = "Eugene_Jungers.dds"
+		ideology = colonial_regime
+		traits = {
+			deplorable_belgian_colonialist
+		}
+	}
+}
+
+1952.1.1 = {
+	create_country_leader = {
+		name = "Léo Pétillon"
+		picture = "Leo_Petillon.dds"
+		ideology = colonial_regime
+		traits = {
+			deplorable_belgian_colonialist
+		}
+	}
+}
+
+1958.6.1 = {
+	create_country_leader = {
+		name = "Hendrik Cornelis"
+		picture = "Hendrik_Cornelis.dds"
+		ideology = colonial_regime
+		traits = {
+			deplorable_belgian_colonialist
+		}
+	}
+}
+1960.1.1 = {
+	set_technology = {
+		ww_production = 1
+		ww_oil = 1
+		ww_infra = 1
+		production_efficiency_I = 1
+		production_efficiency_II = 1
+		logistics_I = 1
+		logistics_II = 1
+		management_I = 1
+		management_II = 1
+		agriculture_I = 1
+		materials_I = 1
+		chemistry_I = 1
+		grid_I = 1
+		inframanagement_I = 1
+		inframunicipal_I = 1
+		organic_I = 1
+		water_I = 1
+		civil_engineering_II = 1
+		excavation_I = 1
+		infrastate_I = 1
+		squad_weapons_1 = 1
+		team_weapons_1 = 1
+		specialist_1 = 1
+		ammo_explosives_1 = 1
+		infantry_equip_1 = 1
+		army_sp_forces_1 = 1
+		squad_weapons_2 = 1
+		team_weapons_2 = 1
+		specialist_2 = 1
+		direct_fire_gun_1 = 1
+		direct_fire_gun_2 = 1
+		at_ammo_1 = 1
+		at_upgrade_1 = 1
+		ammo_explosives_2 = 1
+		heavy_artillery_1 = 1
+		light_artillery_1 = 1
+		autocannon_1 = 1
+		cannon_ammo_1 = 1
+		aa_upgrade_1 = 1
+		artillery_1 = 1
+		artillery_2 = 1
+		light_artillery_2 = 1
+		art_ammo_1 = 1
+		art_upgrade_1 = 1
+		tech_support = 1
+	}
+}
+1960.6.30 = {
+	set_party_name = { 
+		ideology = neutrality
+		long_name = "Mobutu's Junta" 
+		name = "M-J"
+	}
+	remove_unit_leader = 581
+	remove_ideas = idea_force_publique
+	drop_cosmetic_tag = yes
+	set_cosmetic_tag = DOC_ROTC
+		set_popularities = { 
+			democratic = 0
+			communism = 0
+			fascism = 0
+			nationalist = 0
+			monarchism = 0
+			neutrality = 0
+			islamism = 0
+			radical_shiaism = 0
+			Social_Democratic = 12.6 
+			Social_Liberalism = 0
+			Salafism = 0
+			Liberal_Conservatism = 9.5 
+			conservative = 0
+			Christian_Democratic = 0
+			socialist = 77.9 
+			centrist = 0
+			liberal = 0
+			trotskyism = 0
+			maoism = 0
+			
+		}
+	
+	set_politics = {
+		ruling_party = socialist
+		last_election = "1960.5.22"
+		election_frequency = 60
+		elections_allowed = yes
+	}
+	create_field_marshal = {
+		name = "Victor Lundula"
+		picture = "Victor_Lundula.dds"
+		id = 68129
+		skill = 1
+		attack_skill = 1
+		defense_skill = 1
+		planning_skill = 1
+		logistics_skill = 1
+		traits = {
+			politically_connected
+		}
+	}
+	init_influence = yes
+	set_variable = { var = domestic_influence_amount value = 1500 }
+	add_to_array = { influence_array = BEL.id }
+	add_to_array = { influence_array_val = 500 }
+	add_to_array = { influence_array = USA.id }
+	add_to_array = { influence_array_val = 400 }
+	add_to_array = { influence_array = SOV.id }
+	add_to_array = { influence_array_val = 200 }
+	add_to_array = { influence_array = PRC.id }
+	add_to_array = { influence_array_val = 50 }
+}
+1961.1.1 = {
+	set_popularities = { 
+		democratic = 0
+		communism = 0
+		fascism = 0
+		nationalist = 0
+		monarchism = 0
+		neutrality = 10
+		islamism = 0
+		radical_shiaism = 0
+		Social_Democratic = 0
+		Social_Liberalism = 0
+		Salafism = 0
+		Liberal_Conservatism = 80
+		conservative = 0
+		Christian_Democratic = 0
+		socialist = 10
+		centrist = 0
+		liberal = 0
+		trotskyism = 0
+		maoism = 0
+		
+	}
+	set_politics = {
+		ruling_party = Liberal_Conservatism
+		last_election = "1960.5.22"
+		election_frequency = 60
+		elections_allowed = yes
+	}
+	create_country_leader = {
+		name = "Antoine Gizenga"
+		picture = "Antoine_Gizenga.dds"
+		ideology = african_socialism
+	}
+}
+1964.8.1 = {
+	set_cosmetic_tag = DOC_1964_1966
+}
+1965.11.1 = {
+	
+		set_popularities = { 
+			democratic = 0
+			communism = 0
+			nationalist = 0
+			fascism = 0
+			monarchism = 0
+			neutrality = 100
+			islamism = 0
+			radical_shiaism = 0
+			Social_Democratic = 0
+			Social_Liberalism = 0
+			Salafism = 0
+			Liberal_Conservatism = 0
+			conservative = 0
+			Christian_Democratic = 0
+			socialist = 0
+			centrist = 0
+			liberal = 0
+			trotskyism = 0
+			maoism = 0
+			
+		}
+				create_country_leader = {
+					name = "Joseph-Désiré Mobutu"
+					picture = "Joseph_Desire_Mobutu.dds"
+					desc = "POLITICS_JDMOBUTU_DESC"
+					ideology = military_junta
+						traits = {
+							ruthless_political_cut_throat
+							africanization_advocate
+							nepotistic_embezzler
+							narcissistic_personality_cultist
+						}
+				}
+			
+	set_politics = {
+		ruling_party = neutrality
+		last_election = "1965.11.1"
+		election_frequency = 48
+		elections_allowed = no
+	}
+	set_party_name = {
+		ideology = Social_Democratic
+		long_name = "Parti Lumumbiste Unifié"
+		name = "PALU"
+	}
+}
+1966.8.1 = {
+	set_cosmetic_tag = DOC_1966_1971
+}
+1967.11.1 = {
+	
+		set_popularities = { 
+			democratic = 0
+			communism = 0
+			nationalist = 0
+			fascism = 100
+			monarchism = 0
+			neutrality = 0
+			islamism = 0
+			radical_shiaism = 0
+			Social_Democratic = 0
+			Social_Liberalism = 0
+			Salafism = 0
+			Liberal_Conservatism = 0
+			conservative = 0
+			Christian_Democratic = 0
+			socialist = 0
+			centrist = 0
+			liberal = 0
+			trotskyism = 0
+			maoism = 0
+			
+		}
+			create_country_leader = {
+				name = "Joseph-Désiré Mobutu"
+				picture = "Mobutu_Sese_Seko.dds"
+				desc = "POLITICS_JDMOBUTU_DESC"
+				ideology = authenticite
+				traits = {
+					ruthless_political_cut_throat
+					africanization_advocate
+					nepotistic_embezzler
+					narcissistic_personality_cultist
+				}
+			}
+	set_politics = {
+		ruling_party = fascism
+		last_election = "1967.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}
+	set_party_name = {
+		ideology = fascism
+		long_name = "Mouvement Populaire de la Révolution"
+		name = "MPR"
+	}
+}
+
+1971.1.1 = {
+	set_cosmetic_tag = ZAIRE
+	create_country_leader = {
+		name = "Mobutu Sese Seko Kuku Ngbendu Wa Za Banga"
+		desc = "POLITICS_MOBUTU_SESE_SEKO_DESC"
+		picture = "Mobutu_Sese_Seko.dds"
+		ideology = authenticite
+		traits = {
+			ruthless_political_cut_throat
+			africanization_advocate
+			nepotistic_embezzler
+			narcissistic_personality_cultist
+		}
+	}
+}
+
+1997.1.1 = {
+	drop_cosmetic_tag = yes
+	
+		set_popularities = { 
+			democratic = 0
+			communism = 0
+			fascism = 0
+			nationalist = 0
+			monarchism = 0
+			neutrality = 0
+			islamism = 0
+			radical_shiaism = 0
+			Social_Democratic = 0
+			Social_Liberalism = 0
+			Salafism = 0
+			Liberal_Conservatism = 0
+			conservative = 0
+			Christian_Democratic = 0
+			socialist = 100
+			centrist = 0
+			liberal = 0
+			trotskyism = 0
+			maoism = 0
+			
+		}
+	
+	set_politics = {
+		ruling_party = socialist
+		last_election = "1997.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}
+	create_country_leader = {
+		name = "Laurent-Desire Kabila"
+		picture = "Laurent_Desire_Kabila.dds"
+		ideology = democratic_socialist
+	}
+	set_party_name = {
+		ideology = socialist
+		long_name = "Parti du Peuple pour la Reconstruction et la Démocratie"
+		name = "PPRD"
+	}
+}
+
+2001.1.1 = {
+	create_country_leader = {
+		name = "Joseph Kabila"
+		picture = "Joseph_Kabila.dds"
+		ideology = democratic_socialist
+	}
+}

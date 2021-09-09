@@ -1,0 +1,251 @@
+﻿capital = 78 
+
+set_research_slots = 3
+
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns"}
+	}
+	set_technology = {
+		ww_screens_proletariat = 1
+		frigate_0 = 1
+		destroyer_0 = 1
+		cruiser_0 = 1
+		ww_capitals_proletariat = 1
+		carrier_0 = 1
+		ww_submarines_proletariat = 1
+		attack_submarine_0 = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns"}
+	set_technology = {
+		countermeasures_0 = 1
+		subkiller_0 = 1
+		subkiller_1 = 1
+		maritime_sonar_0 = 1
+		detection_ww = 1
+		maritime_ta_fcs_0 = 1
+		maritime_ew_ss_0 = 1
+		ww_armaments = 1
+		ship_armament_light_0 = 1
+		ship_armament_light_1 = 1
+		ship_armament_medium_0 = 1
+		ship_armament_heavy_0 = 1
+		
+		ww_capitals = 1
+		battle_hull_medium_0 = 1
+		ww_carriers = 1
+		battle_hull_medium_0 = 1
+		carrier_hull_0 = 1
+		
+		ww_submarines = 1
+		torpedo_ww = 1
+		sub_hull_large_single_0 = 1
+		sub_hull_small_single_0 = 1
+		torpedo_small_0 = 1
+		ww_screens = 1
+		screen_hull_heavy_0 = 1
+		screen_hull_medium_0 = 1
+		battle_hull_light_0 = 1
+	}
+}
+
+set_technology = {
+
+##### INFRA #####
+	ww_infra = 1
+
+	## Tech ##
+	radio = 1
+
+	## Industry ##
+
+	## AIR ##
+	
+	## NAVY ##
+
+	## Infantry ##
+	infantry_equip_1 = 1 
+	
+	## Support ##
+	tech_support = 1
+
+	## Artillery  ##
+	artillery_1 = 1 
+	direct_fire_gun_1 = 1 
+	autocannon_1 = 1
+	direct_fire_gun_1 = 1
+	autocannon_1 = 1
+	
+	## Armor ## 
+	iw_armored_vehicles = 1  # dummy tech
+}
+
+
+add_ideas = {
+}
+
+set_convoys = 0
+
+init_influence = yes
+set_variable = { var = domestic_influence_amount value = 500 }
+add_to_array = { influence_array = SOV.id }
+add_to_array = { influence_array_val = 2500 }
+
+
+
+	set_popularities = { 
+		democratic = 0
+		communism = 100
+		fascism = 0
+		nationalist = 0
+		monarchism = 0
+		neutrality = 0
+		islamism = 0
+		radical_shiaism = 0
+		
+		Social_Democratic = 0
+		Social_Liberalism = 0
+		Salafism = 0
+		Liberal_Conservatism = 0
+		conservative = 0
+		Christian_Democratic = 0
+		socialist = 0
+		centrist = 0
+		liberal = 0
+		trotskyism = 0
+		maoism = 0
+		
+	}
+
+	set_politics = {
+	ruling_party = communism
+	last_election = "1945.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Nikita Salogor"
+	picture = "Nikita_Salogor.dds"
+	ideology = marxism_leninism
+}
+
+create_country_leader = {
+	name = "Vladimir Voronin"
+	picture = "Vladimir_Voronin.dds"
+	ideology = revolutionary_socialism
+}
+
+create_country_leader = {
+	name = "Petru Lucinschi"
+	picture = "Petru_Lucinschi.dds"
+	ideology = centrism
+}
+
+create_country_leader = {
+	name = "Mircea Snegur"
+	picture = "Mircea_Snegur.dds"
+	ideology = independent
+}
+
+1946.1.1 = {
+	create_country_leader = {
+		name = "Nicolae Coval"
+		picture = "Nicolae_Coval.dds"
+		ideology = marxism_leninism
+	}
+}
+
+1954.1.1 = {
+	create_country_leader = {
+		name = "Zinovie Serdiuk"
+		picture = "Zinovie_Serdiuk.dds"
+		ideology = marxism_leninism
+	}
+}
+
+1961.1.1 = {
+	create_country_leader = {
+		name = "Ivan Bodiul"
+		picture = "Ivan_Bodiul.dds"
+		ideology = marxism_leninism
+	}
+}
+
+1989.1.1 = {
+	create_country_leader = {
+		name = "Petru Lucinschi"
+		picture = "Petru_Lucinschi.dds"
+		ideology = marxism_leninism
+	}
+}
+
+1991.1.1 = {
+	
+		set_popularities = { 
+			democratic = 0
+			communism = 0
+			fascism = 0
+			nationalist = 0
+			monarchism = 0
+			neutrality = 46
+			islamism = 0
+			radical_shiaism = 0
+			Social_Democratic = 0
+			Social_Liberalism = 0
+			Salafism = 0
+			Liberal_Conservatism = 0
+			conservative = 0
+			Christian_Democratic = 0
+			socialist = 0
+			centrist = 54
+			liberal = 0
+			trotskyism = 0
+			maoism = 0
+			
+		
+		}
+	
+		set_politics = {
+	ruling_party = centrist
+		last_election = "1996.4.4"
+		election_frequency = 60
+		elections_allowed = yes
+	}
+}
+
+2005.4.4 = {
+	
+		set_popularities = { 
+			democratic = 0
+			communism = 0
+			fascism = 0
+			nationalist = 0
+			monarchism = 0
+			neutrality = 0
+			islamism = 0
+			radical_shiaism = 0
+			Social_Democratic = 0
+			Social_Liberalism = 0
+			Salafism = 0
+			Liberal_Conservatism = 0
+			conservative = 0
+			Christian_Democratic = 0
+			socialist = 0
+			centrist = 0
+			liberal = 0
+			trotskyism = 100
+			maoism = 0
+			
+		
+		}
+	
+		set_politics = {
+	ruling_party = trotskyism
+		last_election = "2005.5.20"
+		election_frequency = 48
+		elections_allowed = yes
+	}
+}
