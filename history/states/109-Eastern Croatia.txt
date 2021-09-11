@@ -7,7 +7,7 @@ state={
 	state_category = large_town
 
 	history={
-		owner = YUG
+		owner = CRO
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -20,6 +20,6 @@ state={
 	}
 
 	provinces={
-		624 3592 3596 3627 6647 9595 9611 11577 11580 11581 11594
+		606 624 3592 3596 3627 6619 6647 9588 9591 9595 9611 11574 11577 11580 11581 11594
 	}
 }
