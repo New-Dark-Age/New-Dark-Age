@@ -7,7 +7,7 @@ state={
 
 	state_category = large_city
 	history={
-		owner = BAV
+		owner = BAY
 		victory_points = {
 			9517 20
 		}
@@ -30,8 +30,8 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = BAV
-		add_claims_by = GER
+		add_core_of = BAY
+		add_claim_by = GER
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 11

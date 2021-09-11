@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = BAV
+		owner = BAY
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -33,8 +33,8 @@ state={
 		#	11612 3
 		#}
 		add_core_of = AUS
-		add_core_of = BAV
-		add_claims_by = GER
+		add_core_of = BAY
+		add_claim_by = GER
 	}
 
 	provinces={

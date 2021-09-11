@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = BAV
+		owner = BAY
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 2
@@ -15,8 +15,8 @@ state={
 		victory_points = {
 			11544 10 
 		}
-		add_core_of = BAV
-		add_claims_by = GER
+		add_core_of = BAY
+		add_claim_by = GER
 
 		1939.1.1 = {
 			buildings = {
