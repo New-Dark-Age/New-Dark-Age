@@ -5,8 +5,8 @@ GER = {
 	color_ui = rgb { 138 155 116 }
 }
 ENG = {
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 255 73 121 }
+	color = rgb { 168 0 34 }
+	color_ui = rgb { 168 0 34 }
 }
 SOV = {
 	color = rgb { 125 13 24 }
@@ -676,8 +676,8 @@ D50 = {
 	color_ui = rgb { 255 138 61 }
 }
 BAY = {
-	color = rgb { 233  231  246 }
-	color_ui = rgb { 233  231  246 }
+	color = rgb { 141 128 115 }
+	color_ui = rgb { 141 128 115 }
 }
 MEK = {
 	color = rgb { 186 245 86 }
