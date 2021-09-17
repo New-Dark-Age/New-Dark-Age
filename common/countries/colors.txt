@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 47 172 255 }
 }
 FRA = {
-	color = rgb { 64 0 153 }
-	color_ui = rgb { 64 0 153 }
+	color = rgb { 42 0 99 }
+	color_ui = rgb { 42 0 99 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
