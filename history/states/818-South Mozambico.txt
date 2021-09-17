@@ -1,0 +1,17 @@
+state={
+	id=818
+	name="STATE_818"
+	history={
+		owner = BOT
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BOT
+	}
+	provinces={
+		2193 5177 5212 8245 
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

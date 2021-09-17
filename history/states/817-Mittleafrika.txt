@@ -1,17 +1,10 @@
-
 state={
-	id=796
-	name="STATE_796"
-
+	id=817
+	name="STATE_817"
 	history={
 		owner = ANG
 		buildings = {
 			infrastructure = 1
-			2115 = {
-				naval_base = 1
-
-			}
-
 		}
 		victory_points = {
 			2115 1 
@@ -19,9 +12,8 @@ state={
 		add_core_of = ANG
 
 	}
-
 	provinces={
-		2115 5117 10968 12925 
+		6008 8078 11012 12830 
 	}
 	manpower=25000
 	buildings_max_level_factor=1.000
