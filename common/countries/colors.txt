@@ -1,5 +1,8 @@
 #reload countrycolors
-
+SLI = {
+	color = rgb { 145 2 227 }
+	color_ui = rgb { 145 2 227 }
+}
 GER = {
 	color = rgb { 39 27 41 }
 	color_ui = rgb { 138 155 116 }
