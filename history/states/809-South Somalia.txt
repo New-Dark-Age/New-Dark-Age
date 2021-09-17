@@ -1,0 +1,24 @@
+state={
+	id=809
+	name="STATE_809"
+	history={
+		owner = ERI
+		add_core_of = ERI
+		victory_points = {
+			12991 3 
+		}
+		buildings = {
+			infrastructure = 3
+			12941 = {
+				naval_base = 2
+			}
+		}
+
+	}
+	provinces={
+		11014 12941 
+	}
+	manpower=1028895
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
