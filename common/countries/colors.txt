@@ -70,8 +70,8 @@ YUG = {
 	color_ui = rgb { 94 95 164 }
 }
 SWI = {
-	color = rgb { 224 5 5 }
-	color_ui = rgb { 193 81 81 }
+	color = rgb { 122 9 28 }
+	color_ui = rgb { 122 9 28 }
 }
 TUR = {
 	color = rgb { 171 190 152 }
