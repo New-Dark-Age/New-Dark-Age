@@ -54,8 +54,8 @@ LAT = {
 	color_ui = rgb { 124 125 184 }
 }
 SPR = {
-	color = rgb { 242 205 94 }
-	color_ui = rgb { 255 255 122 }
+	color = rgb { 83 157 173 }
+	color_ui = rgb { 83 157 173 }
 }
 ITA = {
 	color = rgb { 67 127 63 }
@@ -106,12 +106,12 @@ FIN = {
 	color_ui = rgb { 255 255 255 }
 }
 IRE = {
-	color = rgb { 80 159 90 }
-	color_ui = rgb { 104 207 117 }
+	color = rgb { 114 219 127  }
+	color_ui = rgb { 114 219 127  }
 }
 HUN = {
-	color = rgb { 249 126 98 }
-	color_ui = rgb { 255 164 127 }
+	color = rgb { 209 95 46 }
+	color_ui = rgb { 209 95 46 }
 }
 AFG = {
 	color = rgb { 64 160 167 }
@@ -304,8 +304,8 @@ RAJ = {
 }
 
 CRO = {
-	color = rgb { 230  70  180 }
-	color_ui = rgb { 230 255 122 }
+	color = rgb { 255 41 41 }
+	color_ui = rgb { 255 41 41 }
 }
 
 PRC = {
