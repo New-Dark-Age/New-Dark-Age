@@ -1,15 +1,20 @@
+
 state={
 	id=812
 	name="STATE_812"
+
 	history={
 		owner = UGA
-		add_core_of = UGA 
+		add_core_of = UGA
 		buildings = {
 			infrastructure = 3
+
 		}
+
 	}
+
 	provinces={
-		4927 5045 8116 12794 12838 13240 13241 
+		4927 5045 5070 8116 12794 12838 13240 13241 
 	}
 	manpower=500000
 	buildings_max_level_factor=1.000

@@ -1,0 +1,19 @@
+state={
+	id=813
+	name="STATE_813"
+	history={
+		owner = GNB
+		add_core_of = GNB
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		1992 4952 8034 10831 12900 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}
