@@ -1,1 +1,7 @@
 SLI = "countries/Socialist Italy.txt"
+RUS = "countries/Russia.txt"
+KAR = "countries/Karelia.txt"
+GOR = "countries/Gorki.txt"
+KUB = "countries/Kuban.txt"
+PEN = "countries/Penza.txt"
+KAL = "countries/Kalmykia.txt"

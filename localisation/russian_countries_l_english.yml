@@ -1,0 +1,24 @@
+﻿l_english:
+ RUS:0 "White Russia"
+ RUS_DEF:0 "White Russia"
+ RUS_ADJ:0 "White Russian"
+
+ KAR:0 "Karelia"
+ KAR_DEF:0 "Karelia"
+ KAR_ADJ:0 "Karelian"
+
+ GOR:0 "Gorki"
+ GOR_DEF:0 "Gorki"
+ GOR_ADJ:0 "Gorkian"
+
+ KUB:0 "Kuban Union"
+ KUB_DEF:0 "Kuban"
+ KUB_ADJ:0 "Kuban"
+
+ PEN:0 "Penza"
+ PEN_DEF:0 "Penza"
+ PEN_ADJ:0 "Penzan"
+
+ KAL:0 "Kalmykia"
+ KAL_DEF:0 "Kalmykia"
+ KAL_ADJ:0 "Kalmik"
