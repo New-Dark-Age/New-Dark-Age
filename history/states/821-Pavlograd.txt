@@ -1,0 +1,25 @@
+state = {
+	id = 821
+	name = "STATE_821" #Pavlograd
+	
+	manpower = 800000
+	 
+	state_category = rural
+
+	history = {
+		owner = SOV
+
+		victory_points = {
+			11452 1 #Name Pavlograd
+		}
+		buildings = {
+			infrastructure = 3
+		}
+
+		add_core_of = SOV	
+	}
+
+	provinces = {
+		9463 9479 11452 486 472 453
+	}
+}
