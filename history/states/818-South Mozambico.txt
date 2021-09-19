@@ -9,7 +9,7 @@ state={
 		add_core_of = KOS
 	}
 	provinces={
-		2193 5177 5212 8245 
+		2193 5177 5212 8245 13282
 	}
 	manpower=25000
 	buildings_max_level_factor=1.000
