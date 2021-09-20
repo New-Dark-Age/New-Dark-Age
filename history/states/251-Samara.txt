@@ -2,12 +2,12 @@
 state={
 	id=251
 	name="STATE_251"
-	manpower = 1391819
+	manpower = 1991819
 	
 	state_category = town
 
 	history={
-		owner = SOV
+		owner = KBV
 		victory_points = {
 			11225 3 
 		}
@@ -16,7 +16,7 @@ state={
 			arms_factory = 2
 			air_base = 1
 		}
-		add_core_of = SOV
+		add_core_of = KBV
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 3
@@ -25,6 +25,6 @@ state={
 	}
 
 	provinces={
-		298 338 339 365 393 497 3216 6275 6404 9243 9271 9299 9365 9391 11225 11256 11281 11348 11377 
+		338 339 365 393 497 3216 6275 6404 9243 9271 9299 9365 9391 11225 11256 11348 11377 10299    9420 6379 6515 11433 3385 3330 6424 3265 3357 3486 9445
 	}
 }
