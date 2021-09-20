@@ -1,18 +1,15 @@
-
 state={
-	id=821
-	name="STATE_821"
-
+	id=829
+	name="STATE_829"
 	history={
-		owner = USB
+		owner = NEP
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = USB
+		add_core_of = NEP
 	}
-
 	provinces={
-		5231 12064 12648 13257 13258 13259 
+		2229 5154 10963 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000

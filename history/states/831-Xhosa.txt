@@ -1,18 +1,15 @@
-
 state={
-	id=821
-	name="STATE_821"
-
+	id=831
+	name="STATE_831"
 	history={
-		owner = USB
+		owner = URG
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = USB
+		add_core_of = URG
 	}
-
 	provinces={
-		5231 12064 12648 13257 13258 13259 
+		1833 4584 4696 13254 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000
