@@ -1,0 +1,16 @@
+state={
+	id=835
+	name="STATE_835"
+	history={
+		owner = GUM
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = GUM
+	}
+	provinces={
+		1772 4810 10598 12518 12551 12683 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
