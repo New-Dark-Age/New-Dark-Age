@@ -1,0 +1,20 @@
+state={
+	id=839
+	name="STATE_839"
+	history={
+		owner = BRD
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BRD
+		victory_points = {
+			1794 1
+		}
+	}
+	provinces={
+		1297 1779 1794 4781 4800 4803 12509 12515 12528 
+	}
+	manpower=117195
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}
