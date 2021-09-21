@@ -9,7 +9,7 @@ state={
 		add_core_of = GUM
 	}
 	provinces={
-		1772 4810 10598 12518 12551 12683 
+		1772 4810 10598 12518 12551 12683 13291
 	}
 	manpower=126961
 	buildings_max_level_factor=1.000

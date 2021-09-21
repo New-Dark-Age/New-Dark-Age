@@ -1,0 +1,17 @@
+state={
+	id=837
+	name="STATE_837"
+	history={
+		owner = SUD
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SUD
+	}
+	provinces={
+		1679 1780 1828 7701 7750 10576 10705 12555 12595 12655 12666 
+	}
+	manpower=117195
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}
