@@ -9,7 +9,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = EST
+		owner = VNE
 		victory_points = {
 			11584 10 
 		}
@@ -26,7 +26,7 @@ state={
 				naval_base = 5
 			}			
 		}
-		add_core_of = EST
+		add_core_of = VNE
 
 	}
 
