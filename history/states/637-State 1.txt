@@ -4,16 +4,14 @@ state={
 	name="STATE_637"
 
 	history={
-		owner = SLO
+		owner = KMC
 		buildings = {
 			infrastructure = 2
 			12207 = {
 				naval_base = 1
-
 			}
-
 		}
-		add_core_of = SLO
+		add_core_of = KMC
 
 	}
 
