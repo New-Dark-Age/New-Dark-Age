@@ -9,8 +9,8 @@ state= {
 	state_category = rural
 
 	history= {
-		owner = USB
-		add_core_of = USB
+		owner = SKH
+		add_core_of = SKH
 		
 		buildings = {
 			infrastructure = 3

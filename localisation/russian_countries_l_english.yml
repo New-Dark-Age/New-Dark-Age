@@ -38,3 +38,35 @@
  CHK:0 "Chukotka"
  CHK_DEF:0 "Chukotka"
  CHK_ADJ:0 "Chukotkan"
+
+ SKH:0 "Sakhalin"
+ SKH_DEF:0 "Sakhalin"
+ SKH_ADJ:0 "Sakhalite"
+
+ VLD:0 "Vladivostok"
+ VLD_DEF:0 "Vladivostok"
+ VLD_ADJ:0 "Vlad"
+
+ KHB:0 "Khabarovsk"
+ KHB_DEF:0 "Khabarovsk"
+ KHB_ADJ:0 "Khabarovski"
+
+ MGD:0 "Magadan"
+ MGD_DEF:0 "Magadan"
+ MGD_ADJ:0 "Magadani"
+
+ AMU:0 "Amur"
+ AMU_DEF:0 "Amur"
+ AMU_ADJ:0 "Amuri"
+
+ ZBY:0 "Zabaykalsky"
+ ZBY_DEF:0 "Zabaykalsky"
+ ZBY_ADJ:0 "Zabaykalski"
+
+ BRY:0 "Buryatia"
+ BRY_DEF:0 "Buryatia"
+ BRY_ADJ:0 "Buryati"
+
+ KRS:0 "Krasnoyarsk"
+ KRS_DEF:0 "Krasnoyarsk"
+ KRS_ADJ:0 "Krasnoyarski"

@@ -7,13 +7,14 @@ state={
 		owner = RWA
 		buildings = {
 			infrastructure = 1
+
 		}
 		add_core_of = RWA
 
 	}
 
 	provinces={
-		1697 1741 1837 4687 4743 4785 4831 4842 7707 7805 7863 10544 10631 12615 
+		1697 1837 4687 4785 4831 4842 7707 7805 7863 10544 12615 
 	}
 	manpower=117195
 	buildings_max_level_factor=1.000

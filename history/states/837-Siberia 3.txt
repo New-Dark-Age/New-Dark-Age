@@ -2,11 +2,11 @@ state={
 	id=837
 	name="STATE_837"
 	history={
-		owner = SUD
+		owner = KRS
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = SUD
+		add_core_of = KRS
 	}
 	provinces={
 		1679 1780 1828 7701 7750 10576 10705 12555 12595 12655 12666 

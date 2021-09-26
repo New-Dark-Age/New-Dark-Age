@@ -6,8 +6,8 @@ state={
 	
 	state_category = pastoral
 	history={
-		owner = USB
-		add_core_of = USB
+		owner = SKH 
+		add_core_of = SKH
 		buildings = {
 			infrastructure = 3
 			air_base = 1

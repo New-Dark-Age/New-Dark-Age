@@ -2,11 +2,11 @@ state={
 	id=835
 	name="STATE_835"
 	history={
-		owner = GUM
+		owner = KHB
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = GUM
+		add_core_of = KHB
 	}
 	provinces={
 		1772 4810 10598 12518 12551 12683 13291
