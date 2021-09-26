@@ -2,11 +2,11 @@ state={
 	id=839
 	name="STATE_839"
 	history={
-		owner = BRD
+		owner = KHK
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = BRD
+		add_core_of = KHK
 		victory_points = {
 			1794 1
 		}

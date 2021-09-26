@@ -70,3 +70,16 @@
  KRS:0 "Krasnoyarsk"
  KRS_DEF:0 "Krasnoyarsk"
  KRS_ADJ:0 "Krasnoyarski"
+
+ IRK:0 "Irkutsk"
+ IRK_DEF:0 "Irkutsk"
+ IRK_ADJ:0 "Irkutski"
+
+ SAK:0 "Sakha"
+ SAK_DEF:0 "Sakha"
+ SAK_ADJ:0 "Sakhite"
+
+ KHK:0 "Khakassia"
+ KHK_DEF:0 "Khakassia"
+ KHK_ADJ:0 "Khakassian"
+ 
