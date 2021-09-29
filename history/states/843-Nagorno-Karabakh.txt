@@ -1,22 +1,19 @@
-
 state={
-	id=231
-	name="STATE_231"
-
+	id=843
+	name="STATE_843"
 	history={
-		owner = GEO
+		owner = AZR
 		victory_points = {
-			1599 5 
+			12320 3 
 		}
 		victory_points = {
-			3653 3 
+			12441 1 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 2
-			air_base = 3
+			air_base = 2
 		}
-		add_core_of = GEO
+		add_core_of = AZR
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 3
@@ -26,11 +23,10 @@ state={
 		}
 
 	}
-
 	provinces={
-		1530 1599 4534 4605 6436 6669 6671 9626 9702 12309 
+		4660 6642 6997 12450 
 	}
-	manpower=2949413
+	manpower=1250082
 	buildings_max_level_factor=1.000
 	state_category=town
 }

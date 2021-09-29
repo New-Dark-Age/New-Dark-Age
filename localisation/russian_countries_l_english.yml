@@ -82,4 +82,31 @@
  KHK:0 "Khakassia"
  KHK_DEF:0 "Khakassia"
  KHK_ADJ:0 "Khakassian"
+
+ BKN:0 "Balkan"
+ BKN_DEF:0 "Balkan"
+ BKN_ADJ:0 "Balkan"
+
+ DAS:0 "Dasoguz"
+ DAS_DEF:0 "Dasoguz"
+ DAS_ADJ:0 "Dasoguzi"
  
+ PAV:0 "Pavlodar"
+ PAV_DEF:0 "Pavlodar"
+ PAV_ADJ:0 "Pavlodari"
+
+ AKM:0 "Akmola"
+ AKM_DEF:0 "Akmola"
+ AKM_ADJ:0 "Akmolan"
+
+ KRG:0 "Kurgan"
+ KRG_DEF:0 "Kurgan"
+ KRG_ADJ:0 "Kurgan"
+
+ BSH:0 "Bashkortostan"
+ BSH_DEF:0 "Bashkortostan"
+ BSH_ADJ:0 "Bashkortostani"
+
+ PRM:0 "Perm"
+ PRM_DEF:0 "Perm"
+ PRM_ADJ:0 "Permite"
