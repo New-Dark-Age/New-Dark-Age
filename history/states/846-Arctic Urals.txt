@@ -1,24 +1,17 @@
-
 state={
-	id=581
-	name="STATE_581"
-	resources={
-		chromium=40.000
-		aluminium=27.000
-	}
-
+	id=846
+	name="STATE_846"
 	history={
-		owner = KHM
+		owner = YAN
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = KHM
+		add_core_of = YAN
 
 	}
-
 	provinces={
-		7824 10551 10677 12393 
+		11098 12502 13076 
 	}
 	manpower=48831
 	buildings_max_level_factor=1.000

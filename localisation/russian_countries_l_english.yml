@@ -110,3 +110,28 @@
  PRM:0 "Perm"
  PRM_DEF:0 "Perm"
  PRM_ADJ:0 "Permite"
+
+ CHE:0 "Chelyabinsk"
+ CHE_DEF:0 "Chelyabinsk"
+ CHE_ADJ:0 "Chelyabinski"
+
+ NVB:0 "Novosibirsk"
+ NVB_DEF:0 "Novosibirsk"
+ NVB_ADJ:0 "Novosibirski"
+
+ ENV:0 "East Novosibirsk"
+ ENV_DEF:0 "East Novosibirsk"
+ ENV_ADJ:0 "East Novosibirski"
+
+ TYU:0 "Tyumen"
+ TYU_DEF:0 "Tyumen"
+ TYU_ADJ:0 "Tyumeni"
+
+ KHM:0 "Khanty-Mansi"
+ KHM_DEF:0 "Khanty-Mansi"
+ KHM_ADJ:0 "Khanty-Mansites"
+
+ YAN:0 "Yamalo-Nenets"
+ YAN_DEF:0 "Yamalo-Nenets"
+ YAN_ADJ:0 "Yamalo-Nenetsi"
+ 
