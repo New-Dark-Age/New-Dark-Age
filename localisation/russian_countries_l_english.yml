@@ -134,4 +134,19 @@
  YAN:0 "Yamalo-Nenets"
  YAN_DEF:0 "Yamalo-Nenets"
  YAN_ADJ:0 "Yamalo-Nenetsi"
- 
+
+ IZH:0 "Izhevsk"
+ IZH_DEF:0 "Izhevsk"
+ IZH_ADJ:0 "Izhevski"
+
+ WPM:0 "West Perm"
+ WPM_DEF:0 "West Perm"
+ WPM_ADJ:0 "West Permite"
+
+ SYK:0 "Syktyvkar"
+ SYK_DEF:0 "Syktyvkar"
+ SYK_ADJ:0 "Syktyvkari"
+
+ VOG:0 "Vologda"
+ VOG_DEF:0 "Vologda"
+ VOG_ADJ:0 "Vologdan" 
