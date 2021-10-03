@@ -4,7 +4,7 @@ state={
 	name="STATE_677"
 
 	history={
-		owner = FRA
+		owner = SYR
 		victory_points = {
 			12473 3 
 		}
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		1056 1072 1088 7140 7671 10087 12473 
+		1056 1072 1088 7140 10087 12473 
 	}
 	manpower=1325594
 	buildings_max_level_factor=1.000
