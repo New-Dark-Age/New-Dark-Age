@@ -154,3 +154,15 @@
  KRU:0 "Rojava Kurdistan"
  KRU_DEF:0 "Rojava Kurd"
  KRU_ADJ:0 "The Rojava Kurds"
+ 
+ HEJ:0 "Hejaz"
+ HEJ_DEF:0 "Hejazi"
+ HEJ_ADJ:0 "The Hashemite Kingdom of Hejaz"
+
+ ASI:0 "Asiri Sultanate"
+ ASI_DEF:0 "Asiri"
+ ASI_ADJ:0 "The Sultanate of Asir"
+
+ NJD:0 "Nejd"
+ NJD_DEF:0 "Nejd"
+ NJD_ADJ:0 "The Sultanate of Nejd"
