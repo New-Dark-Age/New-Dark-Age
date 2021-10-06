@@ -1,0 +1,18 @@
+state={
+	id=855
+	name="STATE_855"
+	history={
+		owner = KNS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		add_core_of = KNS
+	}
+	provinces={
+		2043 
+	}
+	manpower=296039
+	buildings_max_level_factor=1.000
+	state_category=city
+}

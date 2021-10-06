@@ -1,0 +1,18 @@
+state={
+	id=853
+	name="STATE_853"
+	history={
+		owner = TEX
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		add_core_of = TEX
+	}
+	provinces={
+		4464 7668 
+	}
+	manpower=5824712
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

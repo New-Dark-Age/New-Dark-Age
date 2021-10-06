@@ -1,0 +1,132 @@
+﻿l_english:
+ NYE:0 "New York"
+ NYE_DEF:0 "New York"
+ NYE_ADJ:0 "New Yorker"
+
+ NEE:0 "New England"
+ NEE_DEF:0 "New England"
+ NEE_ADJ:0 "New Englander"
+
+ CAL:0 "California"
+ CAL_DEF:0 "California"
+ CAL_ADJ:0 "Californian"
+
+ TEX:0 "Texas"
+ TEX_DEF:0 "Texas"
+ TEX_ADJ:0 "Texan" 
+
+ STX:0 "South Texas"
+ STX_DEF:0 "South Texas"
+ STX_ADJ:0 "South Texan"
+
+ FLO:0 "Florida"
+ FLO_DEF:0 "Florida"
+ FLO_ADJ:0 "Floridian"
+
+ NEV:0 "Nevada"
+ NEV_DEF:0 "Nevada"
+ NEV_ADJ:0 "Nevadan"
+
+ CAC:0 "Cascadia"
+ CAC_DEF:0 "Cascadia"
+ CAC_ADJ:0 "Cascadian"
+
+ MCH:0 "Michigan"
+ MCH_DEF:0 "Michigan"
+ MCH_ADJ:0 "Michigan"
+
+ GRL:0 "Great Lakes"
+ GRL_DEF:0 "Great Lakes"
+ GRL_ADJ:0 "Great Lake"
+
+ MNE:0 "Minnesota"
+ MNE_DEF:0 "Minnesota"
+ MNE_ADJ:0 "Minnesotan"
+
+ KET:0 "Kentucky"
+ KET_DEF:0 "Kentucky"
+ KET_ADJ:0 "Fried"
+
+ TEN:0 "Tennessee"
+ TEN_DEF:0 "Tennessee"
+ TEN_ADJ:0 "Tennesseene"
+
+ OKL:0 "Oklahoma"
+ OKL_DEF:0 "Oklahoma"
+ OKL_ADJ:0 "Oklahoman"
+
+ ARK:0 "Arkansas"
+ ARK_DEF:0 "Arkansas"
+ ARK_ADJ:0 "Arkansas"
+
+ LOS:0 "Louisiana"
+ LOS_DEF:0 "Louisiana"
+ LOS_ADJ:0 "Louisianan"
+
+ PRA:0 "Prairies"
+ PRA_DEF:0 "Prairies"
+ PRA_ADJ:0 "Prairie"
+
+ KNS:0 "Kansas City"
+ KNS_DEF:0 "Kansas City"
+ KNS_ADJ:0 "Kansas City"
+
+ ALA:0 "Alabama"
+ ALA_DEF:0 "Alabama"
+ ALA_ADJ:0 "Alabaman"
+
+ MIS:0 "Mississippi"
+ MIS_DEF:0 "Mississippi"
+ MIS_ADJ:0 "Mississippii"
+
+ WVR:0 "West Virginia"
+ WVR_DEF:0 "West Virginia"
+ WVR_ADJ:0 "West Virginian"
+
+ PNN:0 "Pennsylvania"
+ PNN_DEF:0 "Pennsylvania"
+ PNN_ADJ:0 "Pennsylvanian"
+
+ CRD:0 "Colorado"
+ CRD_DEF:0 "Colorado"
+ CRD_ADJ:0 "Coloradan"
+
+ ARZ:0 "Arizona"
+ ARZ_DEF:0 "Arizona"
+ ARZ_ADJ:0 "Arizonian"
+
+ DES:0 "Deseret"
+ DES_DEF:0 "The Mormon Republic"
+ DES_ADJ:0 "Mormon"
+
+ DAK:0 "Dakota"
+ DAK_DEF:0 "Dakota"
+ DAK_ADJ:0 "Dakotan"
+
+ ENC:0 "Enclave"
+ ENC_DEF:0 "Enclave"
+ ENC_ADJ:0 "Enclave"
+
+ TXM:0 "Texan New Mexico"
+ TXM_DEF:0 "Texan New Mexico"
+ TXM_ADJ:0 "Texan New Mexican"
+
+ NMX:0 "New Mexican"
+ NMX_DEF:0 "New Mexican"
+ NMX_ADJ:0 "New Mexican"
+
+ WYO:0 "Wyoming"
+ WYO_DEF:0 "Wyoming"
+ WYO_ADJ:0 "Wyoming"
+
+ VEG:0 "Vegas"
+ VEG_DEF:0 "The Gambling Republic"
+ VEG_ADJ:0 "Vegan"
+
+ IDA:0 "Idaho"
+ IDA_DEF:0 "Idaho"
+ IDA_ADJ:0 "Idaho"
+
+ CRW:0 "Crow"
+ CRW_DEF:0 "Crow"
+ CRW_ADJ:0 "Crow"
