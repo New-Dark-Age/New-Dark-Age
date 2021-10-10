@@ -1,0 +1,64 @@
+﻿l_english:
+ DRD:0 "Dravidia"
+ DRD_DEF:0 "Dravidia"
+ DRD_ADJ:0 "Dravidian"
+
+ KHA:0 "Khalistan"
+ KHA_DEF:0 "Khalistan"
+ KHA_ADJ:0 "Khalistani"
+
+ LAD:0 "Ladakh"
+ LAD_DEF:0 "Ladakh"
+ LAD_ADJ:0 "Ladakhi"
+
+ AKS:0 "Aksai Chin"
+ AKS_DEF:0 "Aksai Chin"
+ AKS_ADJ:0 "Aksai" 
+
+ GOA:0 "Goa Free State"
+ GOA_DEF:0 "the Goa Free State"
+ GOA_ADJ:0 "Goa Free State"
+
+ HYD:0 "Hyderabad"
+ HYD_DEF:0 "Hyderabad"
+ HYD_ADJ:0 "Hyderabad"
+
+ ORI:0 "Orissa"
+ ORI_DEF:0 "Orissa"
+ ORI_ADJ:0 "Odiya"
+
+ NAX:0 "People's Republic of India"
+ NAX_DEF:0 "the People's Republic of India"
+ NAX_ADJ:0 "Naxalite"
+
+ BHA:0 "Bhartiya Federation"
+ BHA_DEF:0 "the Bhartiya Federation"
+ BHA_ADJ:0 "Bhartiya"
+
+ RJP:0 "Rajputana"
+ RJP_DEF:0 "Rajputana"
+ RJP_ADJ:0 "Rajput"
+
+ SIN:0 "Sindh"
+ SIN_DEF:0 "Sindh"
+ SIN_ADJ:0 "Sindhi"
+
+ PAH:0 "Pahari Confederation"
+ PAH_DEF:0 "Pahari Confederation"
+ PAH_ADJ:0 "Pahari Confederation"
+
+ EEL:0 "Tamil Eelaam"
+ EEL_DEF:0 "Tamil Eelaam"
+ EEL_ADJ:0 "Tamil Eelaam"
+
+ RAJ:0 "Republic of India"
+ RAJ_DEF:0 "the Republic of India"
+ RAJ_ADJ:0 "Indian"
+
+ BAN:0 "Bangla"
+ BAN_DEF:0 "Bangla"
+ BAN_ADJ:0 "Bengali"
+
+ PAK:0 "Kashmir"
+ PAK_DEF:0 "Kashmir"
+ PAK_ADJ:0 "Kashmiri"

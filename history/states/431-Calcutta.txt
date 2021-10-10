@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = RAJ
+		owner = BAN
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -22,7 +22,7 @@ state={
 		victory_points = {
 			4245 5 
 		}
-
+		add_core_of = BAN
 	}
 
 	provinces={

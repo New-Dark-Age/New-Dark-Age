@@ -1,9 +1,14 @@
 state={
 	id=864
 	name="STATE_864"
+	history={
+		owner = LAD 
+		add_core_of = LAD
+	}
 	provinces={
 		7273 8005 12884 
 	}
-	manpower=0
+	manpower = 20590200
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

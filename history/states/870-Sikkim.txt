@@ -1,9 +1,14 @@
 state={
 	id=870
 	name="STATE_870"
+	history={
+		owner = NEP 
+		add_core_of = NEP
+	}
 	provinces={
 		4435 12338 
 	}
-	manpower=0
+	manpower = 20590200
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

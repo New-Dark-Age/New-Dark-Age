@@ -1,9 +1,14 @@
 state={
 	id=861
+	history={
+		owner = DRD 
+		add_core_of = DRD
+	}
 	name="STATE_861"
 	provinces={
 		1238 1321 7391 7447 10190 
 	}
-	manpower=0
+	manpower = 20590200
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

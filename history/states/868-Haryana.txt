@@ -1,9 +1,14 @@
 state={
 	id=868
 	name="STATE_868"
+	history={
+		owner = KHA 
+		add_core_of = KHA
+	}
 	provinces={
 		2002 2032 12868 
 	}
-	manpower=0
+	manpower = 20590200
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

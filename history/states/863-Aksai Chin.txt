@@ -1,9 +1,14 @@
 state={
 	id=863
 	name="STATE_863"
+	history={
+		owner = AKS 
+		add_core_of = AKS
+	}
 	provinces={
 		5042 
 	}
-	manpower=0
+	manpower = 20590200
+	state_category = rural
 	buildings_max_level_factor=1.000
 }
