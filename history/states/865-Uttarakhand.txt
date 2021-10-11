@@ -6,7 +6,7 @@ state={
 		add_core_of = NEP
 	}
 	provinces={
-		1898 3989 
+		1898 3989 5157 10021 
 	}
 	manpower = 20590200
 	state_category = rural

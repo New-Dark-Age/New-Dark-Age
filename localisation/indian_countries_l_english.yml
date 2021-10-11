@@ -43,9 +43,9 @@
  SIN_DEF:0 "Sindh"
  SIN_ADJ:0 "Sindhi"
 
- PAH:0 "Pahari Confederation"
- PAH_DEF:0 "Pahari Confederation"
- PAH_ADJ:0 "Pahari Confederation"
+ NEP:0 "Pahari Confederation"
+ NEP_DEF:0 "Pahari Confederation"
+ NEP_ADJ:0 "Pahari Confederation"
 
  EEL:0 "Tamil Eelaam"
  EEL_DEF:0 "Tamil Eelaam"
@@ -62,3 +62,7 @@
  PAK:0 "Kashmir"
  PAK_DEF:0 "Kashmir"
  PAK_ADJ:0 "Kashmiri"
+
+ AFG:0 "Islamic Emirate of Afghanistan"
+ AFG_DEF:0 "the Islamic Emirate of Afghanistan"
+ AFG_ADJ:0 "Afghani"

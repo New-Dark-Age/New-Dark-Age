@@ -1,0 +1,14 @@
+state={
+	id=871
+	name="STATE_871"
+	history={
+		owner = RAJ 
+		add_core_of = RAJ
+	}
+	provinces={
+		1510 1637 7497 7593 10332 10358 10471 12035 12307 12452 12480
+	}
+	manpower = 20590200
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

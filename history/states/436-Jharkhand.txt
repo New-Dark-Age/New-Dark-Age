@@ -7,7 +7,8 @@ state={
 	}
 
 	history={
-		owner = RAJ
+		owner = NAX
+		add_core_of = NAX
 		buildings = {
 			infrastructure = 4
 
@@ -16,7 +17,7 @@ state={
 	}
 
 	provinces={
-		1510 1579 1622 4410 4557 4953 7428 7465 7574 8120 10401 10801 12375 12420 12490 12799 12854 
+		1579 1622 4557 7428 7465 7574 8120 10401 12375 12420 12490 
 	}
 	manpower=14123100
 	buildings_max_level_factor=1.000

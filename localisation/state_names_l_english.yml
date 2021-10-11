@@ -441,7 +441,7 @@
  STATE_440:1 "East Punjab"
  STATE_441:0 "Kashmir"
  STATE_442:0 "Peshawar"
- STATE_443:0 "Sind"
+ STATE_443:1 "Sindh"
  STATE_444:0 "Baluchistan"
  STATE_445:0 "Quetta"
  STATE_446:0 "Cairo"
@@ -869,3 +869,4 @@
  STATE_868:0 "Haryana"
  STATE_869:0 "Eastern Hills"
  STATE_870:0 "Sikkim"
+ STATE_871:0 "Jharkhand"

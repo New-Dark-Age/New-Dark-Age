@@ -4,7 +4,8 @@ state={
 	name="STATE_429"
 
 	history={
-		owner = RAJ
+		owner = BHA
+		add_core_of = BHA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -22,7 +23,7 @@ state={
 	}
 
 	provinces={
-		1349 1359 1405 4072 4353 4395 4883 5063 7013 7060 7119 7177 7232 7430 7619 10019 10030 10171 10210 10270 10311 12142 12182 12226 12269 12781 
+		1349 1405 4072 4353 4395 4883 5063 7013 7060 7119 7177 7232 7430 7619 10019 10030 10171 10210 10270 10311 12182 12226 12269 12781 
 	}
 	manpower=17355600
 	buildings_max_level_factor=1.000
