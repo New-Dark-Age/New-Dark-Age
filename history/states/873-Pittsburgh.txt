@@ -1,0 +1,40 @@
+state={
+	id=873
+	name="STATE_873"
+	manpower = 3631346
+	
+	state_category = megalopolis
+	
+	resources={
+		steel=22 # was: 80
+	}
+
+
+	history={
+		owner = GRL
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 5
+			dockyard = 7
+			air_base = 2
+			6845 = {
+				naval_base = 8
+
+			}
+		}
+		add_core_of = GRL
+		victory_points = {
+			11800 15
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 6
+			}
+		}
+
+	}
+
+	provinces={
+		3802 11800 6705 3687 9662 11648
+	}
+}
