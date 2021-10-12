@@ -1,11 +1,11 @@
-
+ 
 state={
 	id=556
 	name="STATE_556"
 
 	history={
-		owner = MLI
-		add_core_of = MLI
+		owner = VOL
+		add_core_of = VOL
 		victory_points = {
 			4927 1 
 		}

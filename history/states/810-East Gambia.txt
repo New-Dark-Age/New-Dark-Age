@@ -2,8 +2,8 @@ state={
 	id=810
 	name="STATE_810"
 	history={
-		owner = GAM
-		add_core_of = GAM 
+		owner = MLI
+		add_core_of = MLI 
 		buildings = {
 			infrastructure = 3
 		}

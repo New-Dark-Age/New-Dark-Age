@@ -1,15 +1,20 @@
+
 state={
 	id=822
 	name="STATE_822"
+
 	history={
 		owner = SAF
 		buildings = {
 			infrastructure = 2
+
 		}
 		add_core_of = SAF
+
 	}
+
 	provinces={
-		1509 5189 5203 7605 13260 13261 13267 13268 
+		1509 13261 13267 13268 
 	}
 	manpower=10000
 	buildings_max_level_factor=1.000

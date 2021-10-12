@@ -1,0 +1,148 @@
+﻿l_english:
+ EGY:0 "Arab Republic Of Egypt"
+ EGY_DEF:0 "the Arab Republic Of Egypt"
+ EGY_ADJ:0 "Egyptian"
+
+ SUD:0 "Republic of Sudan"
+ SUD_DEF:0 "the Republic of Sudan"
+ SUD_ADJ:0 "Sudanese"
+
+ LBA:0 "Libyan Arab Jamahariya"
+ LBA_DEF:0 "the Libyan Arab Jamahariya"
+ LBA_ADJ:0 "Libyan"
+
+ ALG:0 "People's Democratic Republic of Algeria"
+ ALG_DEF:0 "the People's Democratic Republic of Algeria"
+ ALG_ADJ:0 "Algerian"
+
+ MOR:0 "Moroccan Socialist Republic"
+ MOR_DEF:0 "Moroccan Socialist Republic"
+ MOR_ADJ:0 "Moroccan"
+
+ MRT:0 "Islamic Republic of Mauritania"
+ MRT_DEF:0 "the Islamic Republic of Mauritania"
+ MRT_ADJ:0 "Mauritanian"
+
+ SEN:0 "Wolofia"
+ SEN_DEF:0 "Wolofia"
+ SEN_ADJ:0 "Wolofian"
+
+ GNA:0 "Futa Jallon"
+ GNA_DEF:0 "Futa Jallon"
+ GNA_ADJ:0 "Futan"
+
+ MLI:0 "Mali"
+ MLI_DEF:0 "Mali"
+ MLI_ADJ:0 "Malite"
+ 
+ SIE:0 "Mende"
+ SIE_DEF:0 "Mende"
+ SIE_ADJ:0 "Mende"
+
+ LIB:0 "Liberia"
+ LIB_DEF:0 "Liberia"
+ LIB_ADJ:0 "Liberian"
+
+ IVO:0 "Akan"
+ IVO_DEF:0 "Akan"
+ IVO_ADJ:0 "Akani"
+
+ DAH:0 "Dahomey"
+ DAH_DEF:0 "Dahomey"
+ DAH_ADJ:0 "Dahomey"
+
+ VOL:0 "Burkina Faso"
+ VOL_DEF:0 "Burkina Faso"
+ VOL_ADJ:0 "Voltan"
+
+ NGA:0 "Nigeria"
+ NGA_DEF:0 "Nigeria"
+ NGA_ADJ:0 "Nigerian"
+
+ CMR:0 "Cameroon"
+ CMR_DEF:0 "Cameroon"
+ CMR_ADJ:0 "Cameroon"
+
+ EQG:0 "Fang"
+ EQG_DEF:0 "Fang"
+ EQG_ADJ:0 "Fangi"
+
+ GAB:0 "Gabon"
+ GAB_DEF:0 "Gabon"
+ GAB_ADJ:0 "Gabonite"
+
+ RCG:0 "Kongo"
+ RCG_DEF:0 "Kongo"
+ RCG_ADJ:0 "Kongo"
+
+ COG:0 "Zaire"
+ COG_DEF:0 "Zaire"
+ COG_ADJ:0 "Zairi"
+
+ CAR:0 "Banda"
+ CAR_DEF:0 "Banda"
+ CAR_ADJ:0 "Bandane"
+
+ CHA:0 "Sara"
+ CHA_DEF:0 "Sara"
+ CHA_ADJ:0 "Saran"
+ 
+ ETH:0 "Ethiopian Empire"
+ ETH_DEF:0 "the Ethiopian Empire"
+ ETH_ADJ:0 "Ethiopian"
+
+ SOM:0 "Mandatory Somalia"
+ SOM_DEF:0 "the Mandatory Somalia"
+ SOM_ADJ:0 "Somali"
+
+ DJI:0 "Somali Islamic State"
+ DJI_DEF:0 "the Somali Islamic State"
+ DJI_ADJ:0 "Somali"
+
+ MZB:0 "Swahili Republic"
+ MZB_DEF:0 "the Swahili Republic"
+ MZB_ADJ:0 "Swahili"
+
+ MLW:0 "Malawi"
+ MLW_DEF:0 "Malawi"
+ MLW_ADJ:0 "Malawite"
+
+ ZAM:0 "Kuba Kingdom"
+ ZAM_DEF:0 "the Kuba Kingdom"
+ ZAM_ADJ:0 "Kuban"
+
+ ZIM:0 "Zimbabwe"
+ ZIM_DEF:0 "Zimbabwe"
+ ZIM_ADJ:0 "Zimbabwan"
+
+ ANG:0 "Ambundu"
+ ANG_DEF:0 "Ambundu"
+ ANG_ADJ:0 "Ambundu"
+
+ NMB:0 "Southwest African People's Front"
+ NMB_DEF:0 "the Southwest African People's Front"
+ NMB_ADJ:0 "Namibian"
+
+ MAD:0 "Republic of Madagascar"
+ MAD_DEF:0 "the Republic of Madagascar"
+ MAD_ADJ:0 "Malagasy"
+
+ SAF:0 "Union of South Africa"
+ SAF_DEF:0 "the Union of South Africa"
+ SAF_ADJ:0 "South African"
+
+ FSO:0 "Federal Republic of Somalia"
+ FSO_DEF:0 "the Federal Republic of Somalia"
+ FSO_ADJ:0 "Somali"
+
+ SSD:0 "South Sudan"
+ SSD_DEF:0 "South Sudan"
+ SSD_ADJ:0 "South Sudanese"
+
+ EAF:0 "East African Federation"
+ EAF_DEF:0 "the East African Federation"
+ EAF_ADJ:0 "East African"
+
+ HAU:0 "Hausa"
+ HAU_DEF:0 "Hausa"
+ HAU_ADJ:0 "Hausan" 

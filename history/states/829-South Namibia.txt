@@ -1,15 +1,20 @@
+
 state={
 	id=829
 	name="STATE_829"
+
 	history={
 		owner = NEP
 		buildings = {
 			infrastructure = 3
+
 		}
 		add_core_of = NEP
+
 	}
+
 	provinces={
-		2229 5154 10963 
+		2229 5154 5189 5203 7605 10963 13260 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000
