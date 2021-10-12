@@ -1,0 +1,5 @@
+capital = 432
+
+set_stability = 0
+set_war_support = 0
+

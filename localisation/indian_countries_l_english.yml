@@ -23,9 +23,9 @@
  HYD_DEF:0 "Hyderabad"
  HYD_ADJ:0 "Hyderabad"
 
- ORI:0 "Orissa"
- ORI_DEF:0 "Orissa"
- ORI_ADJ:0 "Odiya"
+ ODI:0 "Orissa"
+ ODI_DEF:0 "Orissa"
+ ODI_ADJ:0 "Odiya"
 
  NAX:0 "People's Republic of India"
  NAX_DEF:0 "the People's Republic of India"

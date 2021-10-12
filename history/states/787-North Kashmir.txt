@@ -7,7 +7,7 @@ state={
 
 	history={
 		victory_points = {
-			1910 1
+			2041 1
 		}
 		owner = PAK
 		buildings = {
@@ -17,6 +17,6 @@ state={
 	}
 
 	provinces={
-		1910 2041 2084 10821 
+		2041 2084 10821 
 	}
 }

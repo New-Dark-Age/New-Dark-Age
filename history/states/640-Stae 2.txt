@@ -9,8 +9,7 @@ state={
 		tungsten = 120 
 	}
 	history={
-		add_core_of = BRM
-		owner = RAJ
+		owner = AAA
 		buildings = {
 			infrastructure = 3
 			air_base = 1
