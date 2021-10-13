@@ -4,8 +4,8 @@ state={
 	name="STATE_812"
 
 	history={
-		owner = UGA
-		add_core_of = UGA
+		owner = BMB
+		add_core_of = BMB
 		buildings = {
 			infrastructure = 3
 

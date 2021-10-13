@@ -1,17 +1,18 @@
+
 state={
 	id=814
 	name="STATE_814"
+
 	history={
-		owner = BRD
-		add_core_of = BRD
+		owner = NGA
+		add_core_of = NGA
 		buildings = {
 			infrastructure = 3
-
 		}
-
 	}
+
 	provinces={
-		1891 1932 1969 2025 2050 4938 4972 8021 12731 12817 
+		1932 2025 2050 8021 12731 12817 
 	}
 	manpower=500000
 	buildings_max_level_factor=1.000

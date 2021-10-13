@@ -4,11 +4,11 @@ state={
 	name="STATE_821"
 
 	history={
-		owner = USB
+		owner = BOE
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = USB
+		add_core_of = BOE
 	}
 
 	provinces={

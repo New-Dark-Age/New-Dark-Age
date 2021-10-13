@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = USB
+		owner = BOE
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
@@ -19,7 +19,7 @@ state={
 		victory_points = {
 			10400 10 
 		}
-		add_core_of = USB
+		add_core_of = BOE
 
 	}
 

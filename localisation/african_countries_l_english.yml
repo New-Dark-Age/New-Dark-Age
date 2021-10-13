@@ -127,6 +127,10 @@
  MAD_DEF:0 "the Republic of Madagascar"
  MAD_ADJ:0 "Malagasy"
 
+ BOT:0 "Republic of Botswana"
+ BOT_DEF:0 "the Republic of Botswana"
+ BOT_ADJ:0 "Tswana"
+
  SAF:0 "Union of South Africa"
  SAF_DEF:0 "the Union of South Africa"
  SAF_ADJ:0 "South African"
@@ -146,3 +150,67 @@
  HAU:0 "Hausa"
  HAU_DEF:0 "Hausa"
  HAU_ADJ:0 "Hausan" 
+
+ MSR:0 "Mandinka Socialist Republic"
+ MSR_DEF:0 "the Mandinka Socialist Republic"
+ MSR_ADJ:0 "Mandinkan" 
+
+ BMB:0 "Bambara"
+ BMB_DEF:0 "Bambara"
+ BMB_ADJ:0 "Bambaran" 
+
+ SON:0 "Songhai Anti-Communist Front"
+ SON_DEF:0 "the Songhai Anti-Communist Front"
+ SON_ADJ:0 "Songhaian" 
+
+ BIA:0 "Biafra"
+ BIA_DEF:0 "Biafra"
+ BIA_ADJ:0 "Igbo" 
+
+ FAW:0 "Fulbe Adamawa"
+ FAW_DEF:0 "Fulbe Adamawa"
+ FAW_ADJ:0 "Fulbe" 
+
+ BYA:0 "Baya"
+ BYA_DEF:0 "Baya"
+ BYA_ADJ:0 "Bayan" 
+
+ AZA:0 "Azande Republic"
+ AZA_DEF:0 "the Azande Republic"
+ AZA_ADJ:0 "Azande" 
+
+ CKW:0 "Chokwe People's Republic"
+ CKW_DEF:0 "the Chokwe People's Republic"
+ CKW_ADJ:0 "Chokwe" 
+
+ NM2:0 "Republic of Namibia"
+ NM2_DEF:0 "the Republic of Namibia"
+ NM2_ADJ:0 "Namibian" 
+
+ TSW:0 "Tswana Liberation Front"
+ TSW_DEF:0 "the Tswana Liberation Front"
+ TSW_ADJ:0 "Tswana" 
+
+ BOE:0 "Boer Republic"
+ BOE_DEF:0 "the Boer Republic"
+ BOE_ADJ:0 "Boer" 
+
+ XHO:0 "Xhosaland"
+ XHO_DEF:0 "Xhosaland"
+ XHO_ADJ:0 "Xhosa" 
+
+ ZUL:0 "Zululand"
+ ZUL_DEF:0 "Zululand"
+ ZUL_ADJ:0 "Zulu" 
+
+ LES:0 "Lesotho"
+ LES_DEF:0 "Lesotho"
+ LES_ADJ:0 "Lesuthu" 
+
+ SWZ:0 "Swaziland"
+ SWZ_DEF:0 "Swaziland"
+ SWZ_ADJ:0 "Swazi" 
+
+ TSO:0 "Tsonga"
+ TSO_DEF:0 "Tsonga"
+ TSO_ADJ:0 "Tsonga" 

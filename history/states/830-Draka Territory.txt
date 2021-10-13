@@ -2,11 +2,11 @@ state={
 	id=830
 	name="STATE_830"
 	history={
-		owner = NEP
+		owner = BOT
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = NEP
+		add_core_of = BOT
 	}
 	provinces={
 		10668 13285 

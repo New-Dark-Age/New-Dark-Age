@@ -2,11 +2,11 @@ state={
 	id=818
 	name="STATE_818"
 	history={
-		owner = KOS
+		owner = TSO
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = KOS
+		add_core_of = TSO
 	}
 	provinces={
 		2193 5177 5212 8245 13282
