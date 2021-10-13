@@ -1,0 +1,17 @@
+state={
+	id=877
+	name="STATE_877"
+	history={
+		owner = AAA
+		add_core_of = AAA
+		buildings={
+			infrastructure = 0
+		}
+	}
+	provinces={
+		1135 7884 13090 
+	}
+	manpower=10000
+	state_category=wasteland
+	buildings_max_level_factor=1.000
+}
