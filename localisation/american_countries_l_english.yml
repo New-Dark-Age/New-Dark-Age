@@ -158,3 +158,39 @@
  NEF:0 "Newfoundland Federation"
  NEF_DEF:0 "the Newfoundland Federation"
  NEF_ADJ:0 "Newfoundlandian"
+
+ BRA:0 "Brazil"
+ BRA_DEF:0 "Brazil"
+ BRA_ADJ:0 "Brazilian"
+
+ PAR:0 "Paraguay"
+ PAR_DEF:0 "Paraguay"
+ PAR_ADJ:0 "Paraguayan"
+
+ URG:0 "Uruguay"
+ URG_DEF:0 "the Oriental Republic of Uruguay"
+ URG_ADJ:0 "Idaho"
+
+ ARG:0 "Patagonian Worker's Republic"
+ ARG_DEF:0 "the Patagonian Worker's Republic"
+ ARG_ADJ:0 "Patagonian"
+
+ PRU:0 "Andean Confederation"
+ PRU_DEF:0 "the Andean Confederation"
+ PRU_ADJ:0 "Andean"
+
+ ECU:0 "Ecuador"
+ ECU_DEF:0 "Ecuador"
+ ECU_ADJ:0 "Ecuadorian"
+
+ COL:0 "Republic of Colombia"
+ COL_DEF:0 "the Republic of Colombia"
+ COL_ADJ:0 "Colombian"
+
+ VEN:0 "Bolivaria"
+ VEN_DEF:0 "Bolivaria"
+ VEN_ADJ:0 "Bolivarian"
+
+ SUR:0 "Guiana"
+ SUR_DEF:0 "Guiana"
+ SUR_ADJ:0 "Guianan"
