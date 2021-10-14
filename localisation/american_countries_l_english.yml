@@ -134,3 +134,27 @@
  CSA:0 "New Afrika"
  CSA_DEF:0 "New Afrika"
  CSA_ADJ:0 "New Afrikan"
+
+ RCA:0 "Republic of Canada"
+ RCA_DEF:0 "the Republic of Canada"
+ RCA_ADJ:0 "Canadian"
+
+ QUB:0 "Republique du Quebec"
+ QUB_DEF:0 "la Republique du Quebec"
+ QUB_ADJ:0 "Quebecois"
+
+ BER:0 "Bering Sea Fleet"
+ BER_DEF:0 "the Bering Sea Fleet"
+ BER_ADJ:0 "Bering"
+
+ ALS:0 "Republic of Alaska"
+ ALS_DEF:0 "the Republic of Alaska"
+ ALS_ADJ:0 "Alaskan"
+
+ YUK:0 "Yukon Trust Territory"
+ YUK_DEF:0 "the Yukon Trust Territory"
+ YUK_ADJ:0 "Yukon"
+
+ NEF:0 "Newfoundland Federation"
+ NEF_DEF:0 "the Newfoundland Federation"
+ NEF_ADJ:0 "Newfoundlandian"

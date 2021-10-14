@@ -1,0 +1,28 @@
+﻿l_english:
+ PRC:0 "People's Republic of China"
+ PRC_DEF:0 "the People's Republic of China"
+ PRC_ADJ:0 "Chinese"
+
+ MON:0 "Mongol Ulus"
+ MON_DEF:0 "Mongol Ulus"
+ MON_ADJ:0 "Mongol"
+
+ SIK:0 "Xinjiang Autonomous People's Republic"
+ SIK_DEF:0 "the Xinjiang Autonomous People's Republic"
+ SIK_ADJ:0 "Uyghur"
+
+ CHI:0 "Republic of China"
+ CHI_DEF:0 "the Republic of China"
+ CHI_ADJ:0 "Chinese"
+
+ MAN:0 "Manchuria"
+ MAN_DEF:0 "Manchuria"
+ MAN_ADJ:0 "Manchu"
+
+ TIB:0 "Tibet"
+ TIB_DEF:0 "Tibet"
+ TIB_ADJ:0 "Tibetan"
+
+ KOR:0 "Republic of Korea"
+ KOR_DEF:0 "the Republic of Korea"
+ KOR_ADJ:0 "Korean"

@@ -5,8 +5,7 @@ state={
 	state_category = town
 
 	history={
-		owner = GXC
-		add_core_of = GXC
+		owner = PRC
 		add_core_of = CHI
 		add_core_of = PRC
 		
