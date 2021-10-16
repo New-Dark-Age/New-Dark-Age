@@ -23,6 +23,30 @@
  TIB_DEF:0 "Tibet"
  TIB_ADJ:0 "Tibetan"
 
- KOR:0 "Democratic People's Republic of Korea"
- KOR_DEF:0 "the Democratic People's Republic of Korea"
+ KOR:0 "Republic of Korea"
+ KOR_DEF:0 "the Republic of Korea"
  KOR_ADJ:0 "Korean"
+
+ SIA:0 "Thailand"
+ SIA_DEF:0 "the Kingdom of Thailand"
+ SIA_ADJ:0 "Thai"
+
+ PHI:0 "Philippines"
+ PHI_DEF:0 "the Philippines"
+ PHI_ADJ:0 "Philippino"
+
+ SPH:0 "Philippines"
+ SPH_DEF:0 "the Philippines"
+ SPH_ADJ:0 "Philippino"
+
+ LUZ:0 "Luzon"
+ LUZ_DEF:0 "Luzon"
+ LUZ_ADJ:0 "Luzonian"
+
+ BOR:0 "Kalimantan"
+ BOR_DEF:0 "Kalimantan"
+ BOR_ADJ:0 "Kalimantanan"
+
+ MAL:0 "Malaysia"
+ MAL_DEF:0 "Malaysia"
+ MAL_ADJ:0 "Malaysian"

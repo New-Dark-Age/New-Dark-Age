@@ -150,3 +150,11 @@
  VOG:0 "Vologda"
  VOG_DEF:0 "Vologda"
  VOG_ADJ:0 "Vologdan" 
+
+ TAN:0 "Tannu Tuva"
+ TAN_DEF:0 "Tannu Tuva"
+ TAN_ADJ:0 "Tuvan"
+
+ SOV:0 "Union of Sovereign Republics"
+ SOV_DEF:0 "the Union of Sovereign Republics"
+ SOV_ADJ:0 "Russian"

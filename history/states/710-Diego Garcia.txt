@@ -6,7 +6,8 @@ state={
 	
 	history=
 	{
-		owner = ENG
+		owner = AAA
+		add_core_of = AAA		
 		buildings = {
 			infrastructure = 3
 			13019 = {

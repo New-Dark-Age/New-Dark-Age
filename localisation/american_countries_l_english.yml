@@ -194,3 +194,11 @@
  SUR:0 "Guiana"
  SUR_DEF:0 "Guiana"
  SUR_ADJ:0 "Guianan"
+
+ USA:0 "Federal Government"
+ USA_DEF:0 "the United States of America"
+ USA_ADJ:0 "American"
+
+ USC:0 "United States of Central America"
+ USC_DEF:0 "the United States of Central America"
+ USC_ADJ:0 "Central American"

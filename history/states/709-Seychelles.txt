@@ -7,8 +7,8 @@ state={
 	
 	history=
 	{
-		owner = ENG
-		buildings = {
+		owner = AAA
+		add_core_of = AAA		buildings = {
 			infrastructure = 3
 			2188 = {
 				naval_base = 1
