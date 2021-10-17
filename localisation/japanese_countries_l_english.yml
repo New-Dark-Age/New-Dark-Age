@@ -1,0 +1,104 @@
+﻿l_english:
+ SCZ:0 "Human Extinction Front"
+ SCZ_DEF:0 "the Human Extinction Front"
+ SCZ_ADJ:0 "Schizophrenic Japanese"
+
+ JPF:0 "Japanese People's Front"
+ JPF_DEF:0 "the Japanese People's Front"
+ JPF_ADJ:0 "Communist Japanese"
+
+ KOD:0 "Kodoha"
+ KOD_DEF:0 "the Kodoha"
+ KOD_ADJ:0 "Kodoha"
+
+ KYU:0 "Free Kyushu"
+ KYU_DEF:0 "Free Kyushu"
+ KYU_ADJ:0 "Kyushu"
+
+ USN:0 "USN Okinawa"
+ USN_DEF:0 "the USN Okinawa"
+ USN_ADJ:0 "USN"
+
+ FED:0 "Japanese Federation"
+ FED_DEF:0 "Japanese Federation"
+ FED_ADJ:0 "Federal Japanese"
+
+ JAP:0 "Empire of Japan"
+ JAP_DEF:0 "the Empire of Japan"
+ JAP_ADJ:0 "Imperial Japanese"
+
+ IWA:0 "Iwate"
+ IWA_DEF:0 "the Iwate Shogunate"
+ IWA_ADJ:0 "Shogunite"
+
+ MIY:0 "Miyagi"
+ MIY_DEF:0 "the Miyagi Shogunate"
+ MIY_ADJ:0 "Shogunite"
+
+ YAM:0 "Yamagata"
+ YAM_DEF:0 "the Yamagata Shogunate"
+ YAM_ADJ:0 "Shogunite"
+
+ NGT:0 "Nigata"
+ NGT_DEF:0 "the Nigata Shogunate"
+ NGT_ADJ:0 "Shogunite"
+
+ FUK:0 "Fukushima"
+ FUK_DEF:0 "the Fukushima Shogunate"
+ FUK_ADJ:0 "Shogunite"
+
+ TOC:0 "Tochigi"
+ TOC_DEF:0 "the Tochigi Shogunate"
+ TOC_ADJ:0 "Shogunite"
+
+ IBA:0 "Ibaraki"
+ IBA_DEF:0 "the Ibaraki Shogunate"
+ IBA_ADJ:0 "Shogunite"
+
+ CHB:0 "Chiba"
+ CHB_DEF:0 "the Chiba Shogunate"
+ CHB_ADJ:0 "Shogunite"
+
+ SHZ:0 "Shizuoka"
+ SHZ_DEF:0 "the Shizuoka Shogunate"
+ SHZ_ADJ:0 "Shogunite"
+
+ GUN:0 "Gunma"
+ GUN_DEF:0 "the Gunma Shogunate"
+ GUN_ADJ:0 "Shogunite"
+
+ NAO:0 "Nagano"
+ NAO_DEF:0 "the Nagano Shogunate"
+ NAO_ADJ:0 "Shogunite"
+
+ AIC:0 "Aichi"
+ AIC_DEF:0 "the Aichi Shogunate"
+ AIC_ADJ:0 "Shogunite"
+
+ MIE:0 "Mie"
+ MIE_DEF:0 "the Mie Shogunate"
+ MIE_ADJ:0 "Shogunite"
+
+ TOK:0 "Tokushima"
+ TOK_DEF:0 "the Tokushima Shogunate"
+ TOK_ADJ:0 "Shogunite"
+
+ EHI:0 "Ehime"
+ EHI_DEF:0 "the Ehime Shogunate"
+ EHI_ADJ:0 "Shogunite"
+
+ MIZ:0 "Miyazaki"
+ MIZ_DEF:0 "the Miyazaki Shogunate"
+ MIZ_ADJ:0 "Shogunite"
+
+ SHM:0 "Shimane"
+ SHM_DEF:0 "the Shimane Shogunate"
+ SHM_ADJ:0 "Shogunite"
+
+ HSH:0 "Hiroshima"
+ HSH_DEF:0 "the Hiroshima Shogunate"
+ HSH_ADJ:0 "Shogunite"
+
+ OKY:0 "Okayama"
+ OKY_DEF:0 "the Okayama Shogunate"
+ OKY_ADJ:0 "Shogunite"

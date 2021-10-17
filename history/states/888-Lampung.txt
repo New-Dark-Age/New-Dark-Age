@@ -1,0 +1,17 @@
+state={
+	id=888
+	name="STATE_888"
+	history={
+		owner = LMP
+		add_core_of = LMP
+		buildings={
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1313 4276 4320 12165 
+	}
+	manpower = 3631346
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,17 @@
+state={
+	id=913
+	name="STATE_913"
+	history={
+		owner = NAO
+		add_core_of = NAO
+		buildings={
+			infrastructure = 2
+		}
+	}
+	provinces={
+		10015 10100 12072 
+	}
+	manpower = 3631346
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

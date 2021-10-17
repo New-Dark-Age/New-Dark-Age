@@ -1,0 +1,17 @@
+state={
+	id=903
+	name="STATE_903"
+	history={
+		owner = MIE
+		add_core_of = MIE
+		buildings={
+			infrastructure = 2
+		}
+	}
+	provinces={
+		4054 4142 
+	}
+	manpower = 3631346
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

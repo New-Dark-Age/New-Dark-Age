@@ -1,0 +1,17 @@
+state={
+	id=894
+	name="STATE_894"
+	history={
+		owner = USN
+		add_core_of = USN
+		buildings={
+			infrastructure = 2
+		}
+	}
+	provinces={
+		4102 4198 11949 12032 
+	}
+	manpower = 3631346
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

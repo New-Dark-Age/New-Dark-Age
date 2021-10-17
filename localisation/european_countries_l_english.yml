@@ -122,3 +122,11 @@
  HUN:0 "Hungary"
  HUN_DEF:0 "Hungary"
  HUN_ADJ:0 "Hungarian"
+
+ BRI:0 "Breizh"
+ BRI_DEF:0 "Breizh"
+ BRI_ADJ:0 "Breton"
+
+ OCC:0 "Occitania"
+ OCC_DEF:0 "Occitania"
+ OCC_ADJ:0 "Occitan"

@@ -1,0 +1,18 @@
+
+state={
+	id=904
+	name="STATE_904"
+	history={
+		owner = JPF
+		add_core_of = JPF
+		buildings={
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1063 3848 6873 6994 9859 9865 12056 
+	}
+	manpower = 3631346
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

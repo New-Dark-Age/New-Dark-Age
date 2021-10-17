@@ -1,0 +1,17 @@
+state={
+	id=887
+	name="STATE_887"
+	history={
+		owner = INS
+		add_core_of = INS
+		buildings={
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1342 4361 
+	}
+	manpower = 3631346
+	state_category = rural
+	buildings_max_level_factor=1.000
+}
