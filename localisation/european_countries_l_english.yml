@@ -130,3 +130,27 @@
  OCC:0 "Occitania"
  OCC_DEF:0 "Occitania"
  OCC_ADJ:0 "Occitan"
+
+ ALP:0 "Alpes"
+ ALP_DEF:0 "Alpes"
+ ALP_ADJ:0 "Alpine" 
+
+ BUR:0 "Democratic Republic of Burgundy"
+ BUR_DEF:0 "the Democratic Republic of Burgundy"
+ BUR_ADJ:0 "Burgundian" 
+
+ NMD:0 "Normandy"
+ NMD_DEF:0 "Normandy"
+ NMD_ADJ:0 "Norman" 
+
+ PIC:0 "Picardie"
+ PIC_DEF:0 "Picardie"
+ PIC_ADJ:0 "Picardien" 
+
+ POI:0 "People's Republic of Poitou"
+ POI_DEF:0 "the People's Republic of Poitou"
+ POI_ADJ:0 "Poitou" 
+
+ PRS:0 "State of France"
+ PRS_DEF:0 "the State of France"
+ PRS_ADJ:0 "Parisien"
