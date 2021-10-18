@@ -1,6 +1,6 @@
 capital = 374
 
-oob = "USA_1936"
+oob = "OKL_1936"
 
 set_research_slots = 3
 set_stability = 0.75

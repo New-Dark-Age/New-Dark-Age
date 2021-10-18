@@ -1,7 +1,5 @@
 capital = 333
 
-oob = "INS_1936"
-
 set_research_slots = 2
 
 # Starting tech

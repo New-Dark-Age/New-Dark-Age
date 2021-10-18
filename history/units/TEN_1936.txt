@@ -1,0 +1,44 @@
+division_template = {
+	name = "Volunteer Brigade"
+
+	division_names_group = CSA_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+}
+
+units = {
+	division = {
+		name = "1. Tennessee Irregulars"
+		location = 12501  # 
+		division_template = "Volunteer Brigade"
+	}
+	division = {
+		name = "2. Tennessee Irregulars"
+		location = 12501  # 
+		division_template = "Volunteer Brigade"
+	}
+	division = {
+		name = "3. Tennessee Irregulars"
+		location = 12501  # 
+		division_template = "Volunteer Brigade"
+	}
+	division = {
+		name = "1. Tennesee Citizen Regiment"
+		location = 10657  # 
+		division_template = "Volunteer Brigade"
+	}
+	division = {
+		name = "2. Tennesee Citizen Regiment"
+		location = 10657  # 
+		division_template = "Volunteer Brigade"
+	}
+	division = {
+		name = "3. Tennesee Citizen Regiment"
+		location = 10657  # 
+		division_template = "Volunteer Brigade"
+	}
+}

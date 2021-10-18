@@ -1,6 +1,6 @@
 capital = 382
 
-oob = "USA_1936"
+oob = "CRD_1936"
 
 set_research_slots = 3
 set_stability = 0.75
