@@ -1,0 +1,33 @@
+ideologies = {
+	liberal_democracy = {
+		types = {
+			liberals = {  }
+			conservatives = {  }
+			libertarianism = {  }
+		}
+		dynamic_faction_names = {
+			"faction_liberal_democracy_the_shield_of_liberalism"
+			"faction_liberal_democracy_the_arsenal_of_democracy"
+		}
+		color = { 102 162 255 }
+		can_host_government_in_exile = yes
+		faction_modifiers = {
+			faction_impact_on_world_tension = 
+			faction_trade_opinion_factor = 
+		}
+		rules = {
+			can_create_collaboration_government = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = {
+			generate_wargoal_tension = 2
+			send_volunteers_tension = 25
+			guarantee_tension = 25
+		}
+		ai_neutral = yes
+	}
+}

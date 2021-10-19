@@ -1,0 +1,230 @@
+ideas = {
+
+	country = {
+		despotism_assault_divisions = {
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_despotism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.002
+				despotism_drift = 0.05
+			}
+	
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		authoritarian_democracy_partisans_recruiting = {
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_authoritarian_democracy_drift_bonus
+			
+			modifier = {
+				conscription = -0.002
+				authoritarian_democracy_drift = 0.05
+			}
+	
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	
+		futurism_opposition_voicing_protests = {
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_futurism_drift_bonus
+			
+			modifier = {
+				political_power_factor = -0.2
+				futurism_drift = 0.05
+			}
+	
+			ai_will_do = {
+				factor = 0
+			}
+		}
+
+		despotism_revolutionaries = {
+			
+			removal_cost = -1
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_despotism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.1
+			}
+		}
+
+		authoritarian_democracy_revolutionaries = {
+			
+			removal_cost = -1
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_authoritarian_democracy_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.1
+			}
+		}
+
+		futurism_revolutionaries = {
+			
+			removal_cost = -1
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_futurism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.1
+			}
+		}
+
+
+		despotism_defeated = {
+			removal_cost = -1
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_futurism_drift_bonus
+			
+			modifier = {
+				stability_factor = 0.1
+			}
+		}
+
+		authoritarian_democracy_defeated = {
+			removal_cost = -1
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_futurism_drift_bonus
+			
+			modifier = {
+				stability_factor = 0.1
+			}
+		}
+		
+		reign_of_terror = {
+			removal_cost = -1
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				political_power_factor = 0.2
+				stability_weekly = 0.005
+			}
+		}
+
+		anti_soviet_pact = {
+			
+			removal_cost = -1 # Or make removable, with high cost?
+
+			available = {
+				is_subject = no
+			}
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+	
+			ai_will_do = {
+				factor = 0
+			}
+
+			picture = anti_soviet_pact
+		}
+
+		anti_soviet_pact_refused_call = {
+
+			picture = generic_authoritarian_democracy_drift_bonus
+			
+			removal_cost = -1 # Or make removable, with high cost?
+			
+			allowed = {
+				always = no # Triggered via event
+			}
+	
+			ai_will_do = {
+				factor = 0
+			}
+
+			modifier = {
+				stability_factor = -0.1
+				authoritarian_democracy_drift = 0.05
+			}
+		}
+
+		anti_nazi_coup = {			
+			
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+
+			picture = generic_futurism_drift_bonus
+			
+			modifier = {
+				despotism_acceptance = -50
+			}
+		}
+		
+		shattered_government = {
+			
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			
+			picture = generic_futurism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.1
+			}
+		}
+		
+		political_turmoil = {
+			
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			
+			picture = FRA_scw_intervention_republicans_focus
+			
+			modifier = {
+				stability_factor = -0.1
+				war_support_factor = -0.1
+			}
+		}
+	}
+}

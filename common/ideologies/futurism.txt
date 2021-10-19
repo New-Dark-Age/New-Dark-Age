@@ -1,0 +1,33 @@
+ideologies = {
+	futurism = {
+		types = {
+			extinctionists = { can_be_randomly_selected = no }
+			technocracy = {  }
+		}
+		dynamic_faction_names = {
+			"faction_futurism_futurist_pact"
+			"faction_futurism_league_of_future"
+			"faction_futurism_the_great_extinctionist_front"
+		}
+		color = { 186 72 181 }
+		can_host_government_in_exile = yes
+		can_collaborate = yes
+		faction_modifiers = {
+			faction_impact_on_world_tension = 
+			faction_trade_opinion_factor = 
+		}
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		modifiers = {
+			join_faction_tension = 20
+			send_volunteers_tension = 10
+			guarantee_tension = 100
+		}
+		ai_neutral = yes
+	}
+}

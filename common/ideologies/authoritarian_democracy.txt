@@ -1,0 +1,30 @@
+ideologies = {
+	authoritarian_democracy = {
+		types = {
+			electoral_autocracy = {  }
+			majoritarianism = {  }
+			theocratic_republic = {  }
+			monarchists = {  }
+		}
+		dynamic_faction_names = {
+		}
+		color = { 213 205 212 }
+		can_host_government_in_exile = yes
+		can_collaborate = yes
+		faction_modifiers = {
+			faction_impact_on_world_tension = 
+			faction_trade_opinion_factor = 
+		}
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = {
+		}
+		ai_neutral = yes
+	}
+}
