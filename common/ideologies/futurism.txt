@@ -1,8 +1,8 @@
 ideologies = {
 	futurism = {
 		types = {
-			extinctionists = { can_be_randomly_selected = no }
-			technocracy = {  }
+			extinctionism = { can_be_randomly_selected = no }
+			technocratism = {  }
 		}
 		dynamic_faction_names = {
 			"faction_futurism_futurist_pact"
@@ -12,10 +12,7 @@ ideologies = {
 		color = { 186 72 181 }
 		can_host_government_in_exile = yes
 		can_collaborate = yes
-		faction_modifiers = {
-			faction_impact_on_world_tension = 
-			faction_trade_opinion_factor = 
-		}
+		
 		rules = {
 			can_create_collaboration_government = yes
 			can_declare_war_on_same_ideology = yes

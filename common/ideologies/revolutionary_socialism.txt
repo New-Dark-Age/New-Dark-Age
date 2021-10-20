@@ -1,0 +1,23 @@
+ideologies = {
+	revolutionary_socialism = {
+		types = {
+			trotskyism = {  }
+			latin_socialism = {  }
+			marxism = {  }
+		}
+		dynamic_faction_names = {
+		}
+		color = { 255 65 57 }
+		can_host_government_in_exile = yes
+		
+		rules = {
+			can_create_collaboration_government = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		modifiers = {
+		}
+		ai_neutral = yes
+	}
+}

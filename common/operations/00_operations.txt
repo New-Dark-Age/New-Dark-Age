@@ -1065,9 +1065,40 @@ operation_coup_government = { ### 7 1/70
 			}
 			if = {
 				limit = {
+					PREV.ROOT = { has_government = social_democracy }
+				}
+				social_democracy > 0.2
+			}
+			if = {
+				limit = {
+					PREV.ROOT = { has_government = fascism }
+				}
+				fascism > 0.2
+			}
+			if = {
+				limit = {
+					PREV.ROOT = { has_government = libertarian_socialism }
+				}
+				libertarian_socialism > 0.2
+			}
+			if = {
+				limit = {
+					PREV.ROOT = { has_government = vanguard_socialism }
+				}
+				vanguard_socialism > 0.2
+			}
+
+			if = {
+				limit = {
 					PREV.ROOT = { has_government = futurism }
 				}
 				futurism > 0.2
+			}
+			if = {
+				limit = {
+					PREV.ROOT = { has_government = revolutionary_socialism }
+				}
+				revolutionary_socialism > 0.2
 			}
 			if = {
 				limit = {

@@ -1,0 +1,23 @@
+ideologies = {
+	libertarian_socialist = {
+		types = {
+			hippieism = {  }
+			greenism = {  }
+		}
+		dynamic_faction_names = {
+		}
+		color = { 102 221 95 }
+		can_host_government_in_exile = yes
+		can_collaborate = yes
+		
+		rules = {
+			can_create_collaboration_government = yes
+			can_send_volunteers = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+		}
+		modifiers = {
+		}
+		ai_neutral = yes
+	}
+}

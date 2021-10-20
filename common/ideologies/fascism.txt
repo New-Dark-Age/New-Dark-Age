@@ -1,0 +1,22 @@
+ideologies = {
+	fascism = {
+		types = {
+			nazism = {  }
+			falangism = {  }
+		}
+		dynamic_faction_names = {
+		}
+		color = { 165 110 68 }
+		can_collaborate = yes
+		
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		modifiers = {
+		}
+		ai_neutral = yes
+	}
+}
