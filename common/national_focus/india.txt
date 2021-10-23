@@ -1,0 +1,75 @@
+﻿### search_filters = {FOCUS_FILTER_POLITICAL}
+### search_filters = {FOCUS_FILTER_RESEARCH}
+### search_filters = {FOCUS_FILTER_INDUSTRY}
+### search_filters = {FOCUS_FILTER_STABILITY}
+### search_filters = {FOCUS_FILTER_WAR_SUPPORT}
+### search_filters = {FOCUS_FILTER_MANPOWER}
+### search_filters = {FOCUS_FILTER_ANNEXATION}
+
+focus_tree = {
+	id = indian_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = RAJ
+			has_dlc = "Together for Victory"
+		}
+
+		#modifier = {
+		#	add = 10
+		#	original_tag = RAJ
+		#	has_dlc = "Together for Victory"
+		#}
+	}
+	
+	default = no
+
+	focus = {
+		id = RAJ_provincial_elections
+		icon = GFX_goal_generic_forceful_treaty
+		x = 6
+		y = 0
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 20
+		}
+
+		available = {
+			OR = {
+				AND = {
+					threat > 0.1
+					is_subject = yes
+				}
+				is_subject = no
+			}
+		}
+
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+			add_political_power = 100			
+			add_autonomy_ratio = {
+				value = 0.1
+				localization = RAJ_provincial_elections
+			}
+			swap_ideas = {
+				add_idea = RAJ_princely_states_election
+				remove_idea = RAJ_princely_states
+			}
+		}
+	}
+
+}		

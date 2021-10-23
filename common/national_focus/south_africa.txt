@@ -1,0 +1,99 @@
+﻿focus_tree = {
+	id = south_african_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = SAF
+			has_dlc = "Together for Victory"
+		}
+		
+		#modifier = {
+		#	add = 10
+		#	original_tag = SAF
+		#	has_dlc = "Together for Victory"
+		#}
+	}
+	
+	default = no
+
+
+
+#	focus = {
+#		id = SAF_
+#		icon = GFX_
+#		prerequisite = { focus = }
+#		mutually_exclusive = { focus =  }
+#		x = -3
+#		y = 0
+#		relative_position_id = 
+#
+#		cost = 10
+#
+#		ai_will_do = {
+#			factor = 1
+#		}
+#
+#		available = {
+#
+#		}
+#		
+#		bypass = {
+#
+#		}
+#
+#		cancel_if_invalid = yes
+#		continue_if_invalid = no
+#		available_if_capitulated = no
+#
+#		complete_tooltip = {
+#
+#		}
+#
+#		completion_reward = {
+#
+#		}
+#	}
+
+
+
+	############################
+	#### WAR PREP SECTION ######
+	############################
+
+	focus = {
+		id = SAF_war_measures_act
+		icon = GFX_goal_generic_demand_territory
+		x = 1
+		y = 0
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			OR = {
+				threat > 0.2
+				NOT = { has_government = democratic }
+			}
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+	
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+			add_political_power = 120
+		}
+	}
+
+}		
