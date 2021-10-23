@@ -1,5 +1,5 @@
 ideologies = {
-	libertarian_socialist = {
+	libertarian_socialism = {
 		types = {
 			hippieism = {  }
 			greenism = {  }
