@@ -1,0 +1,19 @@
+bookmarks = {
+	bookmark = {
+		name = "1_january_2020_name"
+		desc = "1_january_2020_desc"
+		date = 2020.1.1
+	picture = "1_january_2020-1"
+		default_country = PRC
+		default = yes
+		"BUL" = {
+			history = "1_january_2020_BUL"
+			ideology = fascism
+			minor = yes
+		}
+		"PRC" = {
+			history = "1_january_2020_PRC"
+			ideology = vanguard_socialism
+		}
+	}
+}
