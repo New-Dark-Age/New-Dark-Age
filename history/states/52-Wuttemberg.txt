@@ -26,11 +26,6 @@ state={
 		add_core_of = BAY
 		add_claim_by = GER
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 10
-			}
-		}
 	}
 
 	provinces={

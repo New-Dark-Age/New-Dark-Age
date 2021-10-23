@@ -27,12 +27,6 @@ state={
 		victory_points = {
 			6845 20
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 2
-				dockyard = 8
-			}
-		}
 
 	}
 
