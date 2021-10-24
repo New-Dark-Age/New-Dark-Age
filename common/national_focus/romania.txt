@@ -76,9 +76,6 @@
 
 		available = {
 			is_subject = no
-			communism < 0.5
-			fascism < 0.5
-			neutrality < 0.5
 		}
 
 		bypass = {
@@ -96,18 +93,18 @@
 				desc = "POLITICS_CAROL_II_DESC"
 				picture = GFX_Portrait_romania_Carol_II				
 				expire = "1965.1.1"
-				ideology = despotism
+				ideology = plutocratism
 				traits = {
 					hedonist
 				}
 				id = 550
 			}
 			set_politics = {
-				ruling_party = neutrality
+				ruling_party = despotism
 				elections_allowed = no
 			}
 			set_political_party = {
-				ideology = neutrality
+				ideology = despotism
 				popularity = 65
 			}
 			remove_ideas = neutrality_idea

@@ -3,6 +3,7 @@ ideologies = {
 		types = {
 			dictatorialism = {  }
 			plutocratism = {  }
+			islamism = {  }
 		}
 		dynamic_faction_names = {
 		}

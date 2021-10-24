@@ -67,7 +67,6 @@ focus_tree = {
 	focus = {
 		id = HUN_balanced_budget
 		icon = GFX_goal_generic_consumer_goods
-		mutually_exclusive = { focus = HUN_economic_intervention }
 		x = 5
 		y = 0
 

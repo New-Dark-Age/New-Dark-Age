@@ -1,0 +1,55 @@
+
+is_enemy_ideology = {
+	OR = {
+		AND = {
+			OR = {
+				has_government = revolutionary_socialism
+				has_government = vanguard_socialism
+				has_government = libertarian_socialism
+			ROOT = {
+				OR = {
+					has_government = fascism
+					has_government = futurism
+					has_government = despotism
+					has_government = authoritarian_democracy
+					has_government = social_democracy
+					has_government = liberal_democracy
+				}
+			}
+		}
+		AND = {
+			OR = {
+				has_government = authoritarian_democracy
+				has_government = social_democracy
+				has_government = liberal_democracy
+			}
+			ROOT = {
+				OR = {
+					has_government = revolutionary_socialism
+					has_government = vanguard_socialism
+					has_government = libertarian_socialism
+					has_government = fascism
+					has_government = futurism
+					has_government = despotism
+				}
+			}
+		}
+		AND = {
+			OR = {
+				has_government = fascism
+				has_government = futurism
+				has_government = despotism
+			}
+			ROOT = {
+				OR = {
+					has_government = authoritarian_democracy
+					has_government = social_democracy
+					has_government = liberal_democracy
+					has_government = revolutionary_socialism
+					has_government = vanguard_socialism
+					has_government = libertarian_socialism
+				}
+			}
+		}
+	}
+}

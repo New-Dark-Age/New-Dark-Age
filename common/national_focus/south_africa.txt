@@ -76,10 +76,7 @@
 		}
 
 		available = {
-			OR = {
-				threat > 0.2
-				NOT = { has_government = democratic }
-			}
+
 		}
 		
 		bypass = {
@@ -92,7 +89,7 @@
 	
 		search_filters = { FOCUS_FILTER_POLITICAL }
 		completion_reward = {
-			add_political_power = 120
+			add_political_power = 69
 		}
 	}
 
