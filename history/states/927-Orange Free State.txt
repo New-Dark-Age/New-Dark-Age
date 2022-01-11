@@ -1,0 +1,20 @@
+
+state={
+	id=927
+	name="STATE_927"
+
+	history={
+		owner = BOE
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = BOE
+	}
+
+	provinces={
+		5231 12064 12648 13257 13258 13259 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

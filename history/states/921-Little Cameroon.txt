@@ -1,0 +1,19 @@
+state={
+	id=921
+	name="STATE_921"
+	history={
+		owner = BIA
+		add_core_of = BIA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		6039 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

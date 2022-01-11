@@ -7,7 +7,7 @@ state={
 	state_category = rural
 	
 	resources={
-		oil=19 # was: 26
+		oil=10 # was: 26
 	}
 
 	history={
@@ -22,9 +22,10 @@ state={
 			6701 3 
 		}
 		add_core_of = AZR
+		add_core_of = DAG
 	}
 
 	provinces={
-		683 700 712 728 1450 3668 3672 3682 3711 4463 6689 6701 6730 6748 7554 7624 9645 11632 
+		683 700 712 728 1450 3668 3682 3711 4463 6701 6730 6748 7554 7624 9645 11632 
 	}
 }

@@ -1,6 +1,6 @@
 state = {
-	id = 824
-	name = "STATE_824" #Pavlograd
+	id = 836
+	name = "STATE_836" #Pavlograd
 	
 	manpower = 800000
 	 

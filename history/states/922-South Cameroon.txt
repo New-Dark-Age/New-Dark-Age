@@ -1,0 +1,19 @@
+state={
+	id=922
+	name="STATE_922"
+	history={
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		2080 5036 5054 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}
