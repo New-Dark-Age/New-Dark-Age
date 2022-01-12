@@ -1,0 +1,19 @@
+state={
+	id=931
+	name="STATE_931"
+	history={
+		owner = CKW
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = CKW
+
+	}
+
+	provinces={
+		1552 4735 7548 8054 10025 13273 13274 13275 13277 13278 
+	}
+	manpower=3200000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
