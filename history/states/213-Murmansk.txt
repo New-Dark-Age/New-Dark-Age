@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = KAR
+		owner = ARX
 		victory_points = {
 			3134 5 
 		}
@@ -22,7 +22,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = KAR
+		add_core_of = ARX
 	}
 
 	provinces={

@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = KAR
+		owner = ARX
 		buildings = {
 			infrastructure = 1
 			12530 = {
@@ -19,7 +19,7 @@ state={
 			}
 
 		}
-		add_core_of = KAR
+		add_core_of = ARX
 	}
 
 	provinces={

@@ -3,9 +3,9 @@
  RUS_DEF:0 "White Russia"
  RUS_ADJ:0 "White Russian"
 
- KAR:0 "Karelia"
- KAR_DEF:0 "Karelia"
- KAR_ADJ:0 "Karelian"
+ ARX:0 "Arkhangelsk"
+ ARX_DEF:0 "Arkhangelsk"
+ ARX_ADJ:0 "Arkhangelski"
 
  GOR:0 "Gorki"
  GOR_DEF:0 "Gorki"
@@ -35,9 +35,9 @@
  KMC_DEF:0 "Kamchatka"
  KMC_ADJ:0 "Kamchatkan"
  
- CHK:0 "Chukotka"
- CHK_DEF:0 "Chukotka"
- CHK_ADJ:0 "Chukotkan"
+ CKK:0 "Chukotka"
+ CKK_DEF:0 "Chukotka"
+ CKK_ADJ:0 "Chukotkan"
 
  SKH:0 "Sakhalin"
  SKH_DEF:0 "Sakhalin"
@@ -63,9 +63,9 @@
  ZBY_DEF:0 "Zabaykalsky"
  ZBY_ADJ:0 "Zabaykalski"
 
- BRY:0 "Buryatia"
- BRY_DEF:0 "Buryatia"
- BRY_ADJ:0 "Buryati"
+ BYA:0 "Buryatia"
+ BYA_DEF:0 "Buryatia"
+ BYA_ADJ:0 "Buryati"
 
  KRS:0 "Krasnoyarsk"
  KRS_DEF:0 "Krasnoyarsk"
@@ -158,3 +158,27 @@
  SOV:0 "Union of Sovereign Republics"
  SOV_DEF:0 "the Union of Sovereign Republics"
  SOV_ADJ:0 "Russian"
+
+ CIN:0 "Chechnya"
+ CIN_DEF:0 "Chechnya"
+ CIN_ADJ:0 "Chechen"
+
+ KAR:0 "Karelia"
+ KAR_DEF:0 "Karelia"
+ KAR_ADJ:0 "Karelian"
+
+ MEL:0 "Mari El"
+ MEL_DEF:0 "Mari El"
+ MEL_ADJ:0 "Mari"
+
+ BUK:0 "Emirate of Bukhara"
+ BUK_DEF:0 "the Emirate of Bukhara"
+ BUK_ADJ:0 "Bukharan"
+
+ KHI:0 "Khiva"
+ KHI_DEF:0 "Khiva"
+ KHI_ADJ:0 "Khivan"
+
+ VGE:0 "Volga German Reich"
+ VGE_DEF:0 "the Volga German Reich"
+ VGE_ADJ:0 "Volga German"

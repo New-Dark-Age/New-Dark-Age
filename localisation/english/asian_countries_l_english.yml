@@ -1,0 +1,120 @@
+﻿l_english:
+ PRC:0 "People's Republic of China"
+ PRC_DEF:0 "the People's Republic of China"
+ PRC_ADJ:0 "Chinese"
+
+ MON:0 "Mongol Ulus"
+ MON_DEF:0 "Mongol Ulus"
+ MON_ADJ:0 "Mongol"
+
+ SIK:0 "Xinjiang Autonomous People's Republic"
+ SIK_DEF:0 "the Xinjiang Autonomous People's Republic"
+ SIK_ADJ:0 "Uyghur"
+
+ CHI:0 "Republic of China"
+ CHI_DEF:0 "the Republic of China"
+ CHI_ADJ:0 "Chinese"
+
+ MAN:0 "Manchuria"
+ MAN_DEF:0 "Manchuria"
+ MAN_ADJ:0 "Manchu"
+
+ TIB:0 "Tibet"
+ TIB_DEF:0 "Tibet"
+ TIB_ADJ:0 "Tibetan"
+
+ KOR:0 "Republic of Korea"
+ KOR_DEF:0 "the Republic of Korea"
+ KOR_ADJ:0 "Korean"
+
+ SIA:0 "Thailand"
+ SIA_DEF:0 "the Kingdom of Thailand"
+ SIA_ADJ:0 "Thai"
+
+ PHI:0 "Philippines"
+ PHI_DEF:0 "the Philippines"
+ PHI_ADJ:0 "Philippino"
+
+ SPH:0 "Philippine Redemption Front"
+ SPH_DEF:0 "the Philippine Redemption Front"
+ SPH_ADJ:0 "Philippino"
+
+ LUZ:0 "Luzon Authority"
+ LUZ_DEF:0 "the Luzon Authority"
+ LUZ_ADJ:0 "Luzonian"
+
+ BOR:0 "Sultanate of Brunei"
+ BOR_DEF:0 "the Sultanate of Brunei"
+ BOR_ADJ:0 "Bruneian"
+
+ MAL:0 "Malaysia"
+ MAL_DEF:0 "Malaysia"
+ MAL_ADJ:0 "Malaysian"
+
+ AST:0 "Oceanian Commonwealth"
+ AST_DEF:0 "the Oceanian Commonwealth"
+ AST_ADJ:0 "Oceanian"
+
+ INS:0 "Java Republic"
+ INS_DEF:0 "the Java Republic"
+ INS_ADJ:0 "Javan"
+
+ TOR:0 "Torajan Empire"
+ TOR_DEF:0 "the Torajan Empire"
+ TOR_ADJ:0 "Torajan"
+
+ MND:0 "Mandar"
+ MND_DEF:0 "Mandar"
+ MND_ADJ:0 "Mandari"
+
+ LUW:0 "Luwu"
+ LUW_DEF:0 "Luwu"
+ LUW_ADJ:0 "Luwu"
+
+ BUG:0 "Bugis"
+ BUG_DEF:0 "Bugis"
+ BUG_ADJ:0 "Bugisi"
+
+ MAK:0 "Makassar"
+ MAK_DEF:0 "Makassar"
+ MAK_ADJ:0 "Makassari"
+
+ LFP:0 "League of Free Peoples"
+ LFP_DEF:0 "the League of Free Peoples"
+ LFP_ADJ:0 "Free" 
+
+ SAS:0 "Sasak"
+ SAS_DEF:0 "Sasak"
+ SAS_ADJ:0 "Sasaki"
+
+ MDU:0 "Madura"
+ MDU_DEF:0 "Madura"
+ MDU_ADJ:0 "Maduran"
+
+ SUN:0 "Sunda"
+ SUN_DEF:0 "Sunda"
+ SUN_ADJ:0 "Sundan"
+
+ LMP:0 "Lampung"
+ LMP_DEF:0 "Lampung"
+ LMP_ADJ:0 "Lampungi"
+
+ PLM:0 "Palembang"
+ PLM_DEF:0 "Palembang"
+ PLM_ADJ:0 "Palembangi"
+
+ MNK:0 "Minangkabau"
+ MNK_DEF:0 "Minangkabau"
+ MNK_ADJ:0 "Minangkabaui"
+
+ ACH:0 "Aceh"
+ ACH_DEF:0 "Aceh"
+ ACH_ADJ:0 "Acehi"
+
+ MTW:0 "Mantawai"
+ MTW_DEF:0 "Mantawai"
+ MTW_ADJ:0 "Mantawaian"
+
+ MLR:0 "Malay Republic"
+ MLR_DEF:0 "the Malay Republic"
+ MLR_ADJ:0 "Malay"

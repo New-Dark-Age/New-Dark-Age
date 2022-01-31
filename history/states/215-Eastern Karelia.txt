@@ -6,12 +6,12 @@ state={
 	}
 
 	history={
-		owner = KAR
+		owner = ARX
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = KAR
+		add_core_of = ARX
 
 	}
 

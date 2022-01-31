@@ -35,9 +35,9 @@
  MIY_DEF:0 "the Miyagi Shogunate"
  MIY_ADJ:0 "Shogunite"
 
- YAM:0 "Yamagata"
- YAM_DEF:0 "the Yamagata Shogunate"
- YAM_ADJ:0 "Shogunite"
+ YAG:0 "Yamagata"
+ YAG_DEF:0 "the Yamagata Shogunate"
+ YAG_ADJ:0 "Shogunite"
 
  NGT:0 "Nigata"
  NGT_DEF:0 "the Nigata Shogunate"

@@ -8,7 +8,7 @@ state={
 		victory_points = {
 			1614 1 
 		}
-		owner = KAZ
+		owner = UZB
 		buildings = {
 			infrastructure = 3
 
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1532 1554 1623 4499 7501 7507 9605 10395 10420 10435 10470 12161 12324 12454 12465 
+		1532 1554 1623 4499 7501 7507 9605 10420 
 	}
 	manpower=1033721
 	buildings_max_level_factor=1.000
